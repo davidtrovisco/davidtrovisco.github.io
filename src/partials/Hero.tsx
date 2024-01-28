@@ -35,7 +35,7 @@ const Hero = () => (
         <img
           // eslint-disable-next-line tailwindcss/no-custom-classname
           className="border-3 w-64 rounded-md border"
-          src="/src/images/me.png"
+          src="\public\assets\images\profile-img.png"
           alt="Avatar image"
           loading="lazy"
         />
