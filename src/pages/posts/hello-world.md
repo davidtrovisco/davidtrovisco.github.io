@@ -66,7 +66,6 @@ imgAlt: 'Image post 6'
 <td style="text-align: right;">2018</td>
   </tr>
   <span class="bg-blue-100 text-blue-800 text-xs font-medium me-2 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-blue-400 border border-blue-400">TypeScript</span>
-
 </table>
 
 <h3 style="color: rgb(34, 211, 238); text-align: center;">Interests and Hobbies</h3>
@@ -76,3 +75,7 @@ imgAlt: 'Image post 6'
   </tr>
   
 </table>
+
+
+ <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/flowbite@3.0.0/dist/flowbite.min.css">
