@@ -4,7 +4,7 @@ title:
 description: Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur vero esse non molestias eos excepturi.
 pubDate: 
 imgSrc: false
-imgAlt: 'Image post 6'
+imgAlt: false
 ---
 <h3 style="color: rgb(34, 211, 238); text-align: center;">Education</h3>
 
