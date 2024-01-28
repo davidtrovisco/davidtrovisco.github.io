@@ -49,7 +49,7 @@ const Hero = () => (
             />
           </a>
           <a href="https://github.com/davidtrovisco/">
-            <HeroSocial src="/src/images/github.png" alt="Github icon" />
+            <HeroSocial src="/assets/images/github.png" alt="Github icon" />
           </a>
           <a href="https://play.google.com/store/apps/">
             <HeroSocial
