@@ -33,7 +33,7 @@ const Hero = () => (
       }
       avatar={
         <img
-          src="https://raw.githubusercontent.com/davidtrovisco/davidtrovisco.github.io/main/src/images/me.png"
+          src="/assets/images/profile-img.png"
           alt="Avatar image"
           loading="lazy"
           // eslint-disable-next-line tailwindcss/no-custom-classname

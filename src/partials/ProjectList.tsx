@@ -17,7 +17,7 @@ const ProjectList = () => (
           <span className="text-white">
             <p>
               Demonstrating significant proficiency in both functional and
-              object-oriented programming, I have a wide-ranging expertise in
+              object-oriented programming, I have wide-ranging expertise in
               programming languages, including:
             </p>
             <span className="text-cyan-400">
