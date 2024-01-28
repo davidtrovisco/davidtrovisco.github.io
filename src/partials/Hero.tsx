@@ -43,12 +43,15 @@ const Hero = () => (
       socialButtons={
         <>
           <a href="https://www.linkedin.com/in/davide-trovisco-440b5717a/">
-            <HeroSocial src="/assets/images/github.png" alt="Linkedin icon" />
+            <HeroSocial
+              src="/assets/images/linkedin-icon.png"
+              alt="Linkedin icon"
+            />
           </a>
-          <a href="https://www.linkedin.com/in/davide-trovisco-440b5717a/">
-            <HeroSocial src="/src/images/github.png" alt="Linkedin icon" />
+          <a href="https://github.com/davidtrovisco/">
+            <HeroSocial src="/src/images/github.png" alt="Github icon" />
           </a>
-          <a href="https://www.linkedin.com/in/davide-trovisco-440b5717a/">
+          <a href="https://play.google.com/store/apps/">
             <HeroSocial
               src="https://img.icons8.com/?size=256&id=s9k2rXOtb7lB&format=png"
               alt="Google Play Apps"
