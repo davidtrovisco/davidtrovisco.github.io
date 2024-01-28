@@ -3,7 +3,7 @@ layout: '@/templates/BasePost.astro'
 title: 
 description: Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur vero esse non molestias eos excepturi.
 pubDate: 
-imgSrc: 'https://cdn3d.iconscout.com/3d/premium/thumb/website-development-7556095-6168912.png'
+imgSrc: '👪'
 imgAlt: 'Image post 6'
 ---
 <h3 style="color: rgb(34, 211, 238); text-align: center;">Education</h3>
@@ -45,13 +45,7 @@ imgAlt: 'Image post 6'
 </table>
 
 ##
-<h3 style="color: rgb(34, 211, 238); text-align: center;">Interests and Hobbies</h3>
-<table>
-  <tr>
-    <td><strong><center>🎿 ⚽ 🏃 🎡 📷 🎨 💻 🛫 🌄 👪 📺</center></strong></td>
-  </tr>
-  
-</table>
+
 <h3 style="color: rgb(34, 211, 238); text-align: center;">Professional Experience</h3>
 
 <table>
@@ -71,4 +65,12 @@ imgAlt: 'Image post 6'
     <td>Accounting Technician - Experience in Financial Management and Billing</td>
 <td style="text-align: right;">2018</td>
   </tr>
+</table>
+
+<h3 style="color: rgb(34, 211, 238); text-align: center;">Interests and Hobbies</h3>
+<table>
+  <tr>
+    <td><strong><center>🎿 ⚽ 🏃 🎡 📷 🎨 💻 🛫 🌄 👪 📺</center></strong></td>
+  </tr>
+  
 </table>
