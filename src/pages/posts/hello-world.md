@@ -3,8 +3,8 @@ layout: '@/templates/BasePost.astro'
 title: 
 description: Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur vero esse non molestias eos excepturi.
 pubDate: 
-imgSrc: false
-imgAlt: false
+imgSrc: 'https://cdn3d.iconscout.com/3d/premium/thumb/user-shopping-wishlist-2869720-2384356.png?f=webp'
+imgAlt: 'Image post 6'
 ---
 <h3 style="color: rgb(34, 211, 238); text-align: center;">Education</h3>
 
