@@ -22,7 +22,7 @@ const ProjectList = () => (
             </p>
             <span className="text-cyan-400">
               <p style={{ fontWeight: 'bold' }}>
-                C/C++, C#, HTML5, CSS, JavaScript
+                C/C++, C#, HTML5, CSS, JavaScript.
               </p>
             </span>
           </span>
