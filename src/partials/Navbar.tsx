@@ -75,8 +75,7 @@ const Navbar = () => (
         <NavMenuItem href="https://github.com/davidtrovisco">
           GitHub
         </NavMenuItem>
-        <NavMenuItem href="/">Experience</NavMenuItem>
-        <NavMenuItem href="/posts/hello-world/">Resume</NavMenuItem>
+        <NavMenuItem href="/posts/hello-world/">Experience</NavMenuItem>
       </NavMenu>
     </NavbarTwoColumns>
   </Section>

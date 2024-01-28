@@ -12,7 +12,7 @@ const ProjectList = () => (
       {/* Card 1 */}
       <Project
         name="Software Development"
-        link="https://seu-link-aqui"
+        link=""
         description={
           <span className="text-white">
             <p>
@@ -22,7 +22,7 @@ const ProjectList = () => (
             </p>
             <span className="text-cyan-400">
               <p style={{ fontWeight: 'bold' }}>
-                C/C++, C#, HTML5, CSS, JavaScript.
+                C/C++, C#, HTML5, CSS, JavaScript
               </p>
             </span>
           </span>
@@ -37,7 +37,7 @@ const ProjectList = () => (
       {/* Card 2 */}
       <Project
         name="FullStack Developer"
-        link="https://seu-link-aqui"
+        link=""
         description={
           <span className="text-white">
             <p>
@@ -48,7 +48,7 @@ const ProjectList = () => (
             <span className="text-cyan-400">
               <p style={{ fontWeight: 'bold' }}>
                 .Net/.Net Core, ASP.Net Web API, SaaS, Razor/Blazor and
-                Bootstrap Framework.
+                Bootstrap Framework
               </p>
             </span>
           </span>
@@ -67,7 +67,7 @@ const ProjectList = () => (
       {/* Card 3 */}
       <Project
         name="Mobile App Development"
-        link="https://seu-link-aqui"
+        link=""
         description={
           <span className="text-white">
             <p>
@@ -78,7 +78,7 @@ const ProjectList = () => (
             <span className="text-cyan-400">
               <p style={{ fontWeight: 'bold' }}>
                 Android, Kotlin, ReactNative, Vue.js, Flutter, Angular,
-                Bootstrap Framework
+                TypeScript and Bootstrap Framework
               </p>
             </span>
           </span>
