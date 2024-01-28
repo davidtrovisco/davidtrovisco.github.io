@@ -12,6 +12,7 @@ const ProjectList = () => (
       {/* Card 1 */}
       <Project
         name="Software Development"
+        link="https://seu-link-aqui"
         description={
           <span className="text-white">
             <p>
@@ -36,6 +37,7 @@ const ProjectList = () => (
       {/* Card 2 */}
       <Project
         name="FullStack Developer"
+        link="https://seu-link-aqui"
         description={
           <span className="text-white">
             <p>
@@ -65,6 +67,7 @@ const ProjectList = () => (
       {/* Card 3 */}
       <Project
         name="Mobile App Development"
+        link="https://seu-link-aqui"
         description={
           <span className="text-white">
             <p>

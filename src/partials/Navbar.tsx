@@ -66,6 +66,7 @@ const Navbar = () => (
               </svg>
             </svg>
           }
+          name={''}
         />
       </a>
 

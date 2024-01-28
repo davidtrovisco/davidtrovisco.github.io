@@ -33,11 +33,11 @@ const Hero = () => (
       }
       avatar={
         <img
-          // eslint-disable-next-line tailwindcss/no-custom-classname
-          className="border-3 w-64 rounded-md border"
-          src="/public/assets/images/profile-img.png"
+          src="https://raw.githubusercontent.com/davidtrovisco/davidtrovisco.github.io/main/src/images/me.png"
           alt="Avatar image"
           loading="lazy"
+          // eslint-disable-next-line tailwindcss/no-custom-classname
+          className="border-3 w-64 rounded-md border"
         />
       }
       socialButtons={
@@ -62,4 +62,5 @@ const Hero = () => (
     />
   </Section>
 );
+
 export { Hero };
