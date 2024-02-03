@@ -25,3 +25,7 @@ Added JavaScript that calculates the number of days remaining until the user's o
 - HTML, CSS, JavaScript (Theme and template customization).
 - Liquid (Template language for Shopify).
 - SaaS Solutions (Integration for SEO monitoring with SEOptimer).
+
+<a target="_blank" href="https://puppie-portrait.com/">Open Project</a>
+
+
