@@ -2,14 +2,19 @@
 layout: '@/templates/BasePost.astro'
 title: Android Apps and Games made by me
 description: List of applications and games created by me and published on Google Play
-pubDate: 2020-02-04T00:00:00Z
+pubDate: 2024-03-17T00:00:00Z
 imgSrc: '/assets/images/apps.png'
 imgAlt: 'Apps and Games made by me'
 ---
 
-<h3 style="color: rgb(34, 211, 238); text-align: center;">My Apps and Games created by me</h3>
+<h3 style="color: rgb(34, 211, 238); text-align: center;">My Android Games and Apps</h3>
 As an enthusiast of application and game development, my passion lies in creating engaging digital experiences. With several applications already published on the Google Play Store, I am constantly seeking ways to innovate and delight users with my creations.
+
+###
 ✨🪁 In 2015 I created a cluster of applications and named it InfinityGames, in 2019 I renamed it to Okaygames to focus more on the audience. ✨🪁
+###
+
+###
 <a href="https://apkcombo.com/pt/developer/Infinity%20Games%20Inc./" rel="nofollow">You can play the games here.</a>
 
 <h3 style="color: rgb(34, 211, 238); text-align: center;">Games</h3>
