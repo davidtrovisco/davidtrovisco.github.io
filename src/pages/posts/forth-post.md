@@ -1,14 +1,16 @@
 ---
 layout: '@/templates/BasePost.astro'
-title: Android Apps/Games
+title: Android Apps and Games made by me
 description: List of applications and games created by me and published on Google Play
 pubDate: 2020-02-04T00:00:00Z
-imgSrc: ''
-imgAlt: 'Image post 3'
+imgSrc: '/assets/images/apps.png'
+imgAlt: 'Apps and Games made by me'
 ---
 
 <h3 style="color: rgb(34, 211, 238); text-align: center;">My Apps and Games created by me</h3>
 As an enthusiast of application and game development, my passion lies in creating engaging digital experiences. With several applications already published on the Google Play Store, I am constantly seeking ways to innovate and delight users with my creations.
+✨🪁 In 2015 I created a cluster of applications and named it InfinityGames, in 2019 I renamed it to Okaygames to focus more on the audience. ✨🪁
+<a href="https://apkcombo.com/pt/developer/Infinity%20Games%20Inc./" rel="nofollow">You can play the games here.</a>
 
 <h3 style="color: rgb(34, 211, 238); text-align: center;">Games</h3>
 
@@ -213,6 +215,9 @@ As an enthusiast of application and game development, my passion lies in creatin
           <span class="bg-blue-100 text-blue-800 text-xs font-medium me-2 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-blue-400 border border-blue-400">CSS</span>
     </td>
 <td style="text-align: right;">+ 300 downloads</td>
+  </tr><tr>
+    <td><strong>Só Frases e Pensamentos</strong></td>
+    <td style="text-align: right;"><strong>2019</strong></td>
   </tr>
   <tr>
     <td>
@@ -220,6 +225,20 @@ As an enthusiast of application and game development, my passion lies in creatin
           <span class="bg-blue-100 text-blue-800 text-xs font-medium me-2 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-blue-400 border border-blue-400">React</span>
           <span class="bg-blue-100 text-blue-800 text-xs font-medium me-2 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-blue-400 border border-blue-400">APIs External</span>
           <span class="bg-blue-100 text-blue-800 text-xs font-medium me-2 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-blue-400 border border-blue-400">CSS</span>
+    </td>
+<td style="text-align: right;">+ 300 downloads</td>
+  </tr>
+  <tr>
+    <td><strong>Restaurant App</strong></td>
+    <td style="text-align: right;"><strong>2022</strong></td>
+  </tr>
+  <tr>
+    <td>
+          <span class="bg-blue-100 text-blue-800 text-xs font-medium me-2 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-blue-400 border border-blue-400">Android Studio</span>
+          <span class="bg-blue-100 text-blue-800 text-xs font-medium me-2 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-blue-400 border border-blue-400">React</span>
+          <span class="bg-blue-100 text-blue-800 text-xs font-medium me-2 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-blue-400 border border-blue-400">APIs</span>
+          <span class="bg-blue-100 text-blue-800 text-xs font-medium me-2 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-blue-400 border border-blue-400">CSS</span>
+          <span class="bg-blue-100 text-blue-800 text-xs font-medium me-2 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-blue-400 border border-blue-400">MySQL</span>
     </td>
 <td style="text-align: right;">+ 300 downloads</td>
   </tr>
