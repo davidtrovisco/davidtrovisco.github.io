@@ -14,43 +14,175 @@ As an enthusiast of application and game development, my passion lies in creatin
 
 <table>
   <tr>
-    <td><strong>Infinity - My first game</strong></td>
-    <td style="text-align: right;"><strong>2015</strong></td>
+    <td><strong>Eu Nunca! Jogo de Bebidas - Top 5 Apps in Portugal</strong></td>
+    <td style="text-align: right;"><strong>2020</strong></td>
+    <td style="text-align: right;">+ 10.000 downloads</td>
   </tr>
   <tr>
     <td>
-          <span class="bg-blue-100 text-blue-800 text-xs font-medium me-2 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-blue-400 border border-blue-400">Unity</span>
-          <span class="bg-blue-100 text-blue-800 text-xs font-medium me-2 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-blue-400 border border-blue-400">C#</span>
-          <span class="bg-blue-100 text-blue-800 text-xs font-medium me-2 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-blue-400 border border-blue-400">Android Studio</span>
+      <span class="bg-blue-100 text-blue-800 text-xs font-medium me-2 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-blue-400 border border-blue-400">Unity</span>
+      <span class="bg-blue-100 text-blue-800 text-xs font-medium me-2 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-blue-400 border border-blue-400">C#</span>
+      <span class="bg-blue-100 text-blue-800 text-xs font-medium me-2 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-blue-400 border border-blue-400">Android Studio</span>
     </td>
-<td style="text-align: right;">+ 100 downloads</td>
+    <td style="text-align: right;">+ 10.000 downloads</td>
   </tr>
   <tr>
-    <td><strong>Attempts</strong></td>
+    <td><strong>BOOM! Jogo de Bebidas</strong></td>
+    <td style="text-align: right;"><strong>2019</strong></td>
+    <td style="text-align: right;">+ 5.000 downloads</td>
+  </tr>
+  <tr>
+    <td>
+      <span class="bg-blue-100 text-blue-800 text-xs font-medium me-2 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-blue-400 border border-blue-400">Unity</span>
+      <span class="bg-blue-100 text-blue-800 text-xs font-medium me-2 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-blue-400 border border-blue-400">C#</span>
+      <span class="bg-blue-100 text-blue-800 text-xs font-medium me-2 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-blue-400 border border-blue-400">Android Studio</span>
+    </td>
+    <td style="text-align: right;">+ 5.000 downloads</td>
+  </tr>
+  <tr>
+    <td><strong>Eu Nunca! Jogo de Bebidas</strong></td>
+    <td style="text-align: right;"><strong>2019</strong></td>
+    <td style="text-align: right;">+ 5.000 downloads</td>
+  </tr>
+  <tr>
+    <td>
+      <span class="bg-blue-100 text-blue-800 text-xs font-medium me-2 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-blue-400 border border-blue-400">Unity</span>
+      <span class="bg-blue-100 text-blue-800 text-xs font-medium me-2 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-blue-400 border border-blue-400">C#</span>
+      <span class="bg-blue-100 text-blue-800 text-xs font-medium me-2 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-blue-400 border border-blue-400">Android Studio</span>
+    </td>
+    <td style="text-align: right;">+ 5.000 downloads</td>
+  </tr>
+  <tr>
+    <td><strong>Escape the Storm! 3D Game</strong></td>
+    <td style="text-align: right;"><strong>2019</strong></td>
+    <td style="text-align: right;">+ 200 downloads</td>
+  </tr>
+  <tr>
+    <td>
+      <span class="bg-blue-100 text-blue-800 text-xs font-medium me-2 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-blue-400 border border-blue-400">Unity</span>
+      <span class="bg-blue-100 text-blue-800 text-xs font-medium me-2 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-blue-400 border border-blue-400">C#</span>
+      <span class="bg-blue-100 text-blue-800 text-xs font-medium me-2 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-blue-400 border border-blue-400">Android Studio</span>
+    </td>
+    <td style="text-align: right;">+ 200 downloads</td>
+  </tr>
+  <tr>
+    <td><strong>Bebida Party's</strong></td>
+    <td style="text-align: right;"><strong>2018</strong></td>
+    <td style="text-align: right;">+ 10.000 downloads</td>
+  </tr>
+  <tr>
+    <td>
+      <span class="bg-blue-100 text-blue-800 text-xs font-medium me-2 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-blue-400 border border-blue-400">Unity</span>
+      <span class="bg-blue-100 text-blue-800 text-xs font-medium me-2 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-blue-400 border border-blue-400">C#</span>
+      <span class="bg-blue-100 text-blue-800 text-xs font-medium me-2 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-blue-400 border border-blue-400">Android Studio</span>
+    </td>
+    <td style="text-align: right;">+ 10.000 downloads</td>
+  </tr>
+  <tr>
+    <td><strong>Bomba! Jogo de bebidas</strong></td>
+    <td style="text-align: right;"><strong>2018</strong></td>
+    <td style="text-align: right;">+ 100 downloads</td>
+  </tr>
+  <tr>
+    <td>
+      <span class="bg-blue-100 text-blue-800 text-xs font-medium me-2 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-blue-400 border border-blue-400">Unity</span>
+      <span class="bg-blue-100 text-blue-800 text-xs font-medium me-2 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-blue-400 border border-blue-400">C#</span>
+      <span class="bg-blue-100 text-blue-800 text-xs font-medium me-2 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-blue-400 border border-blue-400">Android Studio</span>
+    </td>
+    <td style="text-align: right;">+ 100 downloads</td>
+  </tr>
+  <tr>
+    <td><strong>Hop King</strong></td>
+    <td style="text-align: right;"><strong>2018</strong></td>
+    <td style="text-align: right;">+ 100 downloads</td>
+  </tr>
+  <tr>
+    <td>
+      <span class="bg-blue-100 text-blue-800 text-xs font-medium me-2 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-blue-400 border border-blue-400">Unity</span>
+      <span class="bg-blue-100 text-blue-800 text-xs font-medium me-2 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-blue-400 border border-blue-400">C#</span>
+      <span class="bg-blue-100 text-blue-800 text-xs font-medium me-2 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-blue-400 border border-blue-400">Android Studio</span>
+    </td>
+    <td style="text-align: right;">+ 100 downloads</td>
+  </tr>
+  <tr>
+    <td><strong>GoUp!</strong></td>
+    <td style="text-align: right;"><strong>2017</strong></td>
+    <td style="text-align: right;">+ 100 downloads</td>
+  </tr>
+  <tr>
+    <td>
+      <span class="bg-blue-100 text-blue-800 text-xs font-medium me-2 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-blue-400 border border-blue-400">Unity</span>
+      <span class="bg-blue-100 text-blue-800 text-xs font-medium me-2 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-blue-400 border border-blue-400">C#</span>
+      <span class="bg-blue-100 text-blue-800 text-xs font-medium me-2 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-blue-400 border border-blue-400">Android Studio</span>
+    </td>
+    <td style="text-align: right;">+ 100 downloads</td>
+  </tr>
+  <tr>
+    <td><strong>Can you tap 777?</strong></td>
     <td style="text-align: right;"><strong>2016</strong></td>
+    <td style="text-align: right;">+ 100 downloads</td>
   </tr>
   <tr>
     <td>
-          <span class="bg-blue-100 text-blue-800 text-xs font-medium me-2 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-blue-400 border border-blue-400">Unity</span>
-          <span class="bg-blue-100 text-blue-800 text-xs font-medium me-2 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-blue-400 border border-blue-400">C#</span>
-          <span class="bg-blue-100 text-blue-800 text-xs font-medium me-2 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-blue-400 border border-blue-400">Android Studio</span>
+      <span class="bg-blue-100 text-blue-800 text-xs font-medium me-2 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-blue-400 border border-blue-400">Unity</span>
+      <span class="bg-blue-100 text-blue-800 text-xs font-medium me-2 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-blue-400 border border-blue-400">C#</span>
+      <span class="bg-blue-100 text-blue-800 text-xs font-medium me-2 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-blue-400 border border-blue-400">Android Studio</span>
     </td>
-<td style="text-align: right;">+ 200 downloads</td>
+    <td style="text-align: right;">+ 100 downloads</td>
+  </tr>
+  <tr>
+    <td><strong>Emoji stay in circle</strong></td>
+    <td style="text-align: right;"><strong>2016</strong></td>
+    <td style="text-align: right;">+ 100 downloads</td>
+  </tr>
+  <tr>
+    <td>
+      <span class="bg-blue-100 text-blue-800 text-xs font-medium me-2 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-blue-400 border border-blue-400">Unity</span>
+      <span class="bg-blue-100 text-blue-800 text-xs font-medium me-2 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-blue-400 border border-blue-400">C#</span>
+      <span class="bg-blue-100 text-blue-800 text-xs font-medium me-2 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-blue-400 border border-blue-400">Android Studio</span>
+    </td>
+    <td style="text-align: right;">+ 100 downloads</td>
   </tr>
   <tr>
     <td><strong>Sling Color</strong></td>
     <td style="text-align: right;"><strong>2016</strong></td>
+    <td style="text-align: right;">+ 100 downloads</td>
   </tr>
   <tr>
     <td>
-          <span class="bg-blue-100 text-blue-800 text-xs font-medium me-2 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-blue-400 border border-blue-400">Unity</span>
-          <span class="bg-blue-100 text-blue-800 text-xs font-medium me-2 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-blue-400 border border-blue-400">C#</span>
-          <span class="bg-blue-100 text-blue-800 text-xs font-medium me-2 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-blue-400 border border-blue-400">Android Studio</span>
+      <span class="bg-blue-100 text-blue-800 text-xs font-medium me-2 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-blue-400 border border-blue-400">Unity</span>
+      <span class="bg-blue-100 text-blue-800 text-xs font-medium me-2 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-blue-400 border border-blue-400">C#</span>
+      <span class="bg-blue-100 text-blue-800 text-xs font-medium me-2 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-blue-400 border border-blue-400">Android Studio</span>
     </td>
-<td style="text-align: right;">+ 100 downloads</td>
+    <td style="text-align: right;">+ 100 downloads</td>
+  </tr>
+  <tr>
+    <td><strong>Attempts</strong></td>
+    <td style="text-align: right;"><strong>2016</strong></td>
+    <td style="text-align: right;">+ 200 downloads</td>
+  </tr>
+  <tr>
+    <td>
+      <span class="bg-blue-100 text-blue-800 text-xs font-medium me-2 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-blue-400 border border-blue-400">Unity</span>
+      <span class="bg-blue-100 text-blue-800 text-xs font-medium me-2 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-blue-400 border border-blue-400">C#</span>
+      <span class="bg-blue-100 text-blue-800 text-xs font-medium me-2 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-blue-400 border border-blue-400">Android Studio</span>
+    </td>
+    <td style="text-align: right;">+ 200 downloads</td>
+  </tr>
+  <tr>
+    <td><strong>Infinity - My first game</strong></td>
+    <td style="text-align: right;"><strong>2015</strong></td>
+    <td style="text-align: right;">+ 100 downloads</td>
+  </tr>
+  <tr>
+    <td>
+      <span class="bg-blue-100 text-blue-800 text-xs font-medium me-2 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-blue-400 border border-blue-400">Unity</span>
+      <span class="bg-blue-100 text-blue-800 text-xs font-medium me-2 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-blue-400 border border-blue-400">C#</span>
+      <span class="bg-blue-100 text-blue-800 text-xs font-medium me-2 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-blue-400 border border-blue-400">Android Studio</span>
+    </td>
+    <td style="text-align: right;">+ 100 downloads</td>
   </tr>
 </table>
-
 
 ##
 
