@@ -7,9 +7,10 @@ imgSrc: ''
 imgAlt: 'Image post 3'
 ---
 
+<h3 style="color: rgb(34, 211, 238); text-align: center;">My Apps and Games created by me</h3>
 As an enthusiast of application and game development, my passion lies in creating engaging digital experiences. With several applications already published on the Google Play Store, I am constantly seeking ways to innovate and delight users with my creations.
 
-<h3 style="color: rgb(34, 211, 238); text-align: center;">My Apps and Games created by me</h3>
+<h3 style="color: rgb(34, 211, 238); text-align: center;">Games</h3>
 
 <table>
   <tr>
@@ -20,16 +21,33 @@ As an enthusiast of application and game development, my passion lies in creatin
     <td>
           <span class="bg-blue-100 text-blue-800 text-xs font-medium me-2 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-blue-400 border border-blue-400">Unity</span>
           <span class="bg-blue-100 text-blue-800 text-xs font-medium me-2 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-blue-400 border border-blue-400">C#</span>
+          <span class="bg-blue-100 text-blue-800 text-xs font-medium me-2 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-blue-400 border border-blue-400">Android Studio</span>
     </td>
-<td style="text-align: right;">2018 - 2022</td>
+<td style="text-align: right;">+ 100 downloads</td>
   </tr>
   <tr>
-    <td><strong>POLYTECHNIC INSTITUTE OF BRAGANÇA</strong></td>
-    <td style="text-align: right;"><strong>Bragança, PT</strong></td>
+    <td><strong>Attempts</strong></td>
+    <td style="text-align: right;"><strong>2016</strong></td>
   </tr>
   <tr>
-    <td>Accounting Technician</td>
-<td style="text-align: right;">2016 - 2018</td>
+    <td>
+          <span class="bg-blue-100 text-blue-800 text-xs font-medium me-2 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-blue-400 border border-blue-400">Unity</span>
+          <span class="bg-blue-100 text-blue-800 text-xs font-medium me-2 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-blue-400 border border-blue-400">C#</span>
+          <span class="bg-blue-100 text-blue-800 text-xs font-medium me-2 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-blue-400 border border-blue-400">Android Studio</span>
+    </td>
+<td style="text-align: right;">+ 200 downloads</td>
+  </tr>
+  <tr>
+    <td><strong>Sling Color</strong></td>
+    <td style="text-align: right;"><strong>2016</strong></td>
+  </tr>
+  <tr>
+    <td>
+          <span class="bg-blue-100 text-blue-800 text-xs font-medium me-2 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-blue-400 border border-blue-400">Unity</span>
+          <span class="bg-blue-100 text-blue-800 text-xs font-medium me-2 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-blue-400 border border-blue-400">C#</span>
+          <span class="bg-blue-100 text-blue-800 text-xs font-medium me-2 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-blue-400 border border-blue-400">Android Studio</span>
+    </td>
+<td style="text-align: right;">+ 100 downloads</td>
   </tr>
 </table>
 
