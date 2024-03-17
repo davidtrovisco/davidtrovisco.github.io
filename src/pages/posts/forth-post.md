@@ -227,57 +227,5 @@ As an enthusiast of application and game development, my passion lies in creatin
 
 ##
 
-<h3 style="color: rgb(34, 211, 238); text-align: center;">Professional Experience</h3>
-
-<table>
-  <tr>
-    <td><strong>SOLUTIONS by Oryon, SA</strong><td style="text-align: right;"></td></td>
-    <td style="text-align: right;"><strong>Porto, PT</strong></td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      Junior Software Developer - FullStack Developer / DevOps
-      <br>
-      <span class="bg-blue-100 text-blue-800 text-xs font-medium me-2 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-blue-400 border border-blue-400">.Net/.NetCore</span>
-      <span class="bg-blue-100 text-blue-800 text-xs font-medium me-2 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-blue-400 border border-blue-400">Bootstrap</span>
-      <span class="bg-blue-100 text-blue-800 text-xs font-medium me-2 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-blue-400 border border-blue-400">ASP.Net Web API</span>
-      <span class="bg-blue-100 text-blue-800 text-xs font-medium me-2 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-blue-400 border border-blue-400">Syncfusion</span>
-      <span class="bg-blue-100 text-blue-800 text-xs font-medium me-2 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-blue-400 border border-blue-400">Razor</span>
-      <span class="bg-blue-100 text-blue-800 text-xs font-medium me-2 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-blue-400 border border-blue-400">Blazor</span>
-      <span class="bg-blue-100 text-blue-800 text-xs font-medium me-2 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-blue-400 border border-blue-400">Azure DevOps</span>
-      <span class="bg-blue-100 text-blue-800 text-xs font-medium me-2 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-blue-400 border border-blue-400">Azure Pipelines</span>
-      <span class="bg-blue-100 text-blue-800 text-xs font-medium me-2 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-blue-400 border border-blue-400">HTML</span>
-      <span class="bg-blue-100 text-blue-800 text-xs font-medium me-2 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-blue-400 border border-blue-400">CSS</span>
-      </br>
-    </td>
-    <td style="text-align: right;">2022</td>
-  </tr>
-<tr>
-    <td><strong>SOCIEDADE BRIGANTINA DE CONSULTORES, Lda</strong><td style="text-align: right;"></td></td>
-    <td style="text-align: right;"><strong>Bragança, PT</strong></td>
-</tr>
-  <tr>
-    <td colspan="2">
-      Accounting Technician - Experience in Financial Management and Billing
-    </td>
-    <td style="text-align: right;">2018</td>
-  </tr>
-  <tr>
-    <td colspan="2">&nbsp;</td>
-  </tr>
-</table>
-
-
-
-
-<h3 style="color: rgb(34, 211, 238); text-align: center;">Interests and Hobbies</h3>
-<table>
-  <tr>
-    <td><strong><center>🎿 ⚽ 🏃 🎡 📷 🎨 💻 🛫 🌄 👪 📺</center></strong></td>
-  </tr>
-  
-</table>
-
-
  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/flowbite@3.0.0/dist/flowbite.min.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/flowbite@3.0.0/dist/flowbite.min.css">
