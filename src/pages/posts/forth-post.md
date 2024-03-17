@@ -3,7 +3,7 @@ layout: '@/templates/BasePost.astro'
 title: Android Apps/Games
 description: List of applications and games created by me and published on Google Play
 pubDate: 2020-02-04T00:00:00Z
-imgSrc: ''
+imgSrc: '/assets/images/apps.png'
 imgAlt: 'Image post 3'
 ---
 
