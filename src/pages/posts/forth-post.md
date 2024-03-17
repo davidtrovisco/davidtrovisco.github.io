@@ -165,7 +165,7 @@ As an enthusiast of application and game development, my passion lies in creatin
 <td style="text-align: right;">+ 5.000 downloads</td>
   </tr>
   <tr>
-    <td><strong>Eu Nunca! Jogo de Bebidas - Top 5 Apps in Portugal</strong></td>
+    <td><strong>Eu Nunca! Jogo de Bebidas - Top 5 Apps in Portugal 🏅</strong></td>
     <td style="text-align: right;"><strong>2020</strong></td>
   </tr>
   <tr>
@@ -231,7 +231,7 @@ As an enthusiast of application and game development, my passion lies in creatin
           <span class="bg-blue-100 text-blue-800 text-xs font-medium me-2 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-blue-400 border border-blue-400">APIs External</span>
           <span class="bg-blue-100 text-blue-800 text-xs font-medium me-2 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-blue-400 border border-blue-400">CSS</span>
     </td>
-<td style="text-align: right;">+ 300 downloads</td>
+<td style="text-align: right;">+ 100 downloads</td>
   </tr>
   <tr>
     <td><strong>Restaurant App</strong></td>
@@ -245,7 +245,7 @@ As an enthusiast of application and game development, my passion lies in creatin
           <span class="bg-blue-100 text-blue-800 text-xs font-medium me-2 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-blue-400 border border-blue-400">CSS</span>
           <span class="bg-blue-100 text-blue-800 text-xs font-medium me-2 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-blue-400 border border-blue-400">MySQL</span>
     </td>
-<td style="text-align: right;">+ 300 downloads</td>
+<td style="text-align: right;">+ 200 downloads</td>
   </tr>
 </table>
 
