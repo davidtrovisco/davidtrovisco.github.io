@@ -13,8 +13,6 @@ As an enthusiast of application and game development, my passion lies in creatin
 ###
 ✨🪁 In 2015 I created a cluster of applications and named it InfinityGames, in 2019 I renamed it to Okaygames to focus more on the audience. ✨🪁
 ###
-
-###
 <a href="https://apkcombo.com/pt/developer/Infinity%20Games%20Inc./" rel="nofollow">You can play the games here.</a>
 
 <h3 style="color: rgb(34, 211, 238); text-align: center;">Games</h3>
@@ -231,7 +229,7 @@ As an enthusiast of application and game development, my passion lies in creatin
           <span class="bg-blue-100 text-blue-800 text-xs font-medium me-2 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-blue-400 border border-blue-400">APIs External</span>
           <span class="bg-blue-100 text-blue-800 text-xs font-medium me-2 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-blue-400 border border-blue-400">CSS</span>
     </td>
-<td style="text-align: right;">+ 100 downloads</td>
+<td style="text-align: right;">+ 00 downloads</td>
   </tr>
   <tr>
     <td><strong>Restaurant App</strong></td>
