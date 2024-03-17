@@ -174,17 +174,54 @@ As an enthusiast of application and game development, my passion lies in creatin
 
 ##
 
-<h3 style="color: rgb(34, 211, 238); text-align: center;">Awards</h3>
+<h3 style="color: rgb(34, 211, 238); text-align: center;">Apps</h3>
 <table>
   <tr>
-    <td><strong>INTERNACIONAL PARTICIPATION - Hackathon HACKING RIO'20</strong></td>
-    <td><strong>Brazil/Portugal</strong></td>
+    <td><strong>Shiu! Social App</strong></td>
+    <td style="text-align: right;"><strong>2016</strong></td>
   </tr>
   <tr>
-   <tr>
-    <td><strong>Google Play Mobile Application Development - Top 10 app's Portugal</strong></td>
-<td style="text-align: right;"><strong>2020</strong></td>
+    <td>
+          <span class="bg-blue-100 text-blue-800 text-xs font-medium me-2 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-blue-400 border border-blue-400">Android Studio</span>
+          <span class="bg-blue-100 text-blue-800 text-xs font-medium me-2 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-blue-400 border border-blue-400">Kotlin</span>
+          <span class="bg-blue-100 text-blue-800 text-xs font-medium me-2 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-blue-400 border border-blue-400">CSS</span>
+          <span class="bg-blue-100 text-blue-800 text-xs font-medium me-2 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-blue-400 border border-blue-400">Firebase</span>
+    </td>
+<td style="text-align: right;">+ 100 downloads</td>
   </tr>
+  <tr>
+    <td><strong>5 Dots!</strong></td>
+    <td style="text-align: right;"><strong>2017</strong></td>
+  </tr>
+  <tr>
+    <td>
+          <span class="bg-blue-100 text-blue-800 text-xs font-medium me-2 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-blue-400 border border-blue-400">Android Studio</span>
+          <span class="bg-blue-100 text-blue-800 text-xs font-medium me-2 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-blue-400 border border-blue-400">React</span>
+          <span class="bg-blue-100 text-blue-800 text-xs font-medium me-2 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-blue-400 border border-blue-400">JavaScript/CSS</span>
+    </td>
+<td style="text-align: right;">+ 100 downloads</td>
+  </tr>
+  <tr>
+    <td><strong>Three App</strong></td>
+    <td style="text-align: right;"><strong>2018</strong></td>
+  </tr>
+  <tr>
+    <td>
+          <span class="bg-blue-100 text-blue-800 text-xs font-medium me-2 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-blue-400 border border-blue-400">Android Studio</span>
+          <span class="bg-blue-100 text-blue-800 text-xs font-medium me-2 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-blue-400 border border-blue-400">React</span>
+          <span class="bg-blue-100 text-blue-800 text-xs font-medium me-2 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-blue-400 border border-blue-400">APIs External</span>
+          <span class="bg-blue-100 text-blue-800 text-xs font-medium me-2 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-blue-400 border border-blue-400">CSS</span>
+    </td>
+<td style="text-align: right;">+ 300 downloads</td>
+  </tr>
+  <tr>
+    <td>
+          <span class="bg-blue-100 text-blue-800 text-xs font-medium me-2 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-blue-400 border border-blue-400">Android Studio</span>
+          <span class="bg-blue-100 text-blue-800 text-xs font-medium me-2 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-blue-400 border border-blue-400">React</span>
+          <span class="bg-blue-100 text-blue-800 text-xs font-medium me-2 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-blue-400 border border-blue-400">APIs External</span>
+          <span class="bg-blue-100 text-blue-800 text-xs font-medium me-2 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-blue-400 border border-blue-400">CSS</span>
+    </td>
+<td style="text-align: right;">+ 300 downloads</td>
   </tr>
 </table>
 
