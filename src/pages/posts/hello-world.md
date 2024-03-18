@@ -55,7 +55,7 @@ imgAlt: 'Image post 6'
     <td style="text-align: right;">2022</td>
   </tr>
 <tr>
-    <td><strong>SOCIEDADE BRIGANTINA DE CONSULTORES</strong><td style="text-align: right;"></td></td>
+    <td><strong>SOCIEDADE BRIGANTINA DE CONSULTORES, Lda</strong><td style="text-align: right;"></td></td>
     <td style="text-align: right;"><strong>Bragança</strong></td>
 </tr>
   <tr>
@@ -90,7 +90,7 @@ imgAlt: 'Image post 6'
 <table>
   <tr>
     <td><strong>AWS - Diploma in Web Services</strong></td>
-<td style="text-align: right;"><strong>2020</strong></td>
+<td style="text-align: right;"><strong>2024</strong></td>
   </tr>
   <tr>
    <tr>
