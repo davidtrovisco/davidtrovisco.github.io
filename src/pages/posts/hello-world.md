@@ -69,7 +69,7 @@ imgAlt: 'Image post 6'
   </tr>
 </table>
 
-##
+###
 
 <h3 style="color: rgb(34, 211, 238); text-align: center;">Awards</h3>
 <table>
@@ -90,11 +90,11 @@ imgAlt: 'Image post 6'
 <table>
   <tr>
     <td><strong>AWS - Diploma in Web Services</strong></td>
-    <td><strong>2024</strong></td>
+<td style="text-align: right;"><strong>2020</strong></td>
   </tr>
   <tr>
    <tr>
-    <td><strong>HackingRio'20</strong></td>
+    <td><strong>HackingRio'20 - International Hackathon</strong></td>
 <td style="text-align: right;"><strong>2020</strong></td>
   </tr>
   <tr>
@@ -105,7 +105,7 @@ imgAlt: 'Image post 6'
     <td><strong>CCNA - Routing and Switching Cisco</strong></td>
 <td style="text-align: right;"><strong>2019</strong></td>
   </tr>
-  <td><strong>CCNA Enterprise Networking, Security, and Automation Cisco</strong></td>
+  <td><strong>CCNA - Enterprise Networking, Security, and Automation Cisco</strong></td>
 <td style="text-align: right;"><strong>2019</strong></td>
   </tr>
   </tr>
