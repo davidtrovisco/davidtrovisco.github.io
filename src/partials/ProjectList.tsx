@@ -48,7 +48,7 @@ const ProjectList = () => (
             <span className="text-cyan-400">
               <p style={{ fontWeight: 'bold' }}>
                 .Net/.Net Core, ASP.Net Web API, SaaS, Razor/Blazor and
-                Bootstrap Framework
+                Bootstrap Framework, PostgreSQL.
               </p>
             </span>
           </span>

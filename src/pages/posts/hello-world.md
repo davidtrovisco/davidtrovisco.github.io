@@ -28,23 +28,6 @@ imgAlt: 'Image post 6'
 </table>
 
 
-##
-
-<h3 style="color: rgb(34, 211, 238); text-align: center;">Awards</h3>
-<table>
-  <tr>
-    <td><strong>INTERNACIONAL PARTICIPATION - Hackathon HACKING RIO'20</strong></td>
-    <td><strong>Brazil/Portugal</strong></td>
-  </tr>
-  <tr>
-   <tr>
-    <td><strong>Google Play Mobile Application Development - Top 10 app's Portugal</strong></td>
-<td style="text-align: right;"><strong>2020</strong></td>
-  </tr>
-  </tr>
-</table>
-
-##
 
 <h3 style="color: rgb(34, 211, 238); text-align: center;">Professional Experience</h3>
 
@@ -72,7 +55,7 @@ imgAlt: 'Image post 6'
     <td style="text-align: right;">2022</td>
   </tr>
 <tr>
-    <td><strong>SOCIEDADE BRIGANTINA DE CONSULTORES, Lda</strong><td style="text-align: right;"></td></td>
+    <td><strong>SOCIEDADE BRIGANTINA DE CONSULTORES</strong><td style="text-align: right;"></td></td>
     <td style="text-align: right;"><strong>Bragança, PT</strong></td>
 </tr>
   <tr>
@@ -86,8 +69,34 @@ imgAlt: 'Image post 6'
   </tr>
 </table>
 
+##
 
+<h3 style="color: rgb(34, 211, 238); text-align: center;">Awards</h3>
+<table>
+  <tr>
+    <td><strong>INTERNACIONAL PARTICIPATION - Hackathon HACKING RIO'20</strong></td>
+    <td><strong>Brazil/Portugal</strong></td>
+  </tr>
+  <tr>
+   <tr>
+    <td><strong>Google Play Mobile Application Development - Top 10 app's Portugal</strong></td>
+<td style="text-align: right;"><strong>2020</strong></td>
+  </tr>
+  </tr>
+</table>
 
+##
+<h3 style="color: rgb(34, 211, 238); text-align: center;">Certifications</h3>
+<tr>
+    <td colspan="2">
+      AWS - Diploma in Amazon Web Services
+    </td>
+    <td style="text-align: right;">2024</td>
+  </tr>
+  <tr>
+    <td colspan="2">&nbsp;</td>
+  </tr>
+</tr>
 
 <h3 style="color: rgb(34, 211, 238); text-align: center;">Interests and Hobbies</h3>
 <table>
