@@ -13,6 +13,6 @@ imgAlt: 'IMC_app'
 This is a simple application developed in React Native that calculates the Individual Mass Index (IMC) according to the user’s height and weight.
  
 ### App Mockup 
-![Mockup do App](https://www.dropbox.com/scl/fi/1vv9hjo0neutgnmznohx9/imc_app.png?rlkey=130z6g3cwpf7ix8jnucrttzcw&dl=0)
+<img alt="IMC App" src="/assets/images/imc_app.png">
 As we can see in the mockup, we will only use TextInput, Text, and Button.
 Very simple design, but I promise to make it more appealing! :)
