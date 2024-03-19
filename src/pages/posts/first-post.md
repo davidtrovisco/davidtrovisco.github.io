@@ -1,10 +1,18 @@
 ---
 layout: '@/templates/BasePost.astro'
-title: Three App
-description: Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur vero esse non molestias eos excepturi.
-pubDate: 2020-02-01T00:00:00Z
-imgSrc: ''
-imgAlt: 'Image post 7'
+title: IMC App - ReactNative
+description: IMC App Calculator depending on height and weight using ReactNative
+pubDate: 2024-03-19T00:00:00Z
+imgSrc: '/assets/images/imc_app.png'
+imgAlt: 'IMC_app'
 ---
 
-Full typography example at [this page](../sixth-post/).
+<h3 style="color: rgb(34, 211, 238); text-align: center;">IMC App - ReactNative</h3>
+
+### Introduction
+This is a simple application developed in React Native that calculates the Individual Mass Index (IMC) according to the user’s height and weight.
+ 
+### App Mockup 
+![Mockup do App](https://www.dropbox.com/scl/fi/1vv9hjo0neutgnmznohx9/imc_app.png?rlkey=130z6g3cwpf7ix8jnucrttzcw&dl=0)
+As we can see in the mockup, we will only use TextInput, Text, and Button.
+Very simple design, but I promise to make it more appealing! :)
