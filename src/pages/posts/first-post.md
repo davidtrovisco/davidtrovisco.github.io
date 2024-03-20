@@ -18,8 +18,11 @@ imgAlt: 'IMC_app'
     <td>Presentation of the application and draft/design of the app.</td>
 <td style="text-align: right;">19/03/2024</td>
   </tr>
+  <tr>
+    <td>Preparation of the environment, dependencies and allowed libraries and Expo CLI.</td>
+<td style="text-align: right;">20/03/2024</td>
+  </tr>
 </table>
-
 <h3 style="color: rgb(34, 211, 238); text-align: center;">Day 1</h3>
 
 ### Introduction
