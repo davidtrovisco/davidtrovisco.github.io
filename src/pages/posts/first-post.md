@@ -7,7 +7,9 @@ imgSrc: '/assets/images/imc_appv.png'
 imgAlt: 'IMC_app'
 ---
 
-<h3 style="color: rgb(34, 211, 238); text-align: center;">IMC App - ReactNative</h3>
+<h3 style="color: rgb(34, 211, 238); text-align: center;">Individual Mass Index (IMC) App - ReactNative</h3>
+<h3 style="color: rgb(34, 211, 238); text-align: center;">Day 1</h3>
+
 <table>
   <tr>
     <td><strong>IMC App - ReactNative</strong></td>
@@ -19,6 +21,8 @@ imgAlt: 'IMC_app'
   </tr>
 </table>
 
+<h3 style="color: rgb(34, 211, 238); text-align: center;">Day 1</h3>
+
 ### Introduction
 This is a simple application developed in React Native that calculates the Individual Mass Index (IMC) according to the user’s height and weight.
  
@@ -26,3 +30,5 @@ This is a simple application developed in React Native that calculates the Indiv
 <img alt="IMC App" src="/assets/images/imc_appv.png">
 As we can see in the mockup, we will only use TextInput, Text, and Button.
 Very simple design, but I promise to make it more appealing! :)
+
+<h3 style="color: rgb(34, 211, 238); text-align: center;">Day 2</h3>
