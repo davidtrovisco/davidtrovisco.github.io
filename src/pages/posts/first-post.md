@@ -19,7 +19,7 @@ imgAlt: 'IMC_app'
 <td style="text-align: right;">19/03/2024</td>
   </tr>
   <tr>
-    <td>Preparation of the environment, dependencies and allowed libraries and Expo CLI.</td>
+    <td>Preparation dependencies, allowed libraries and Expo CLI.</td>
 <td style="text-align: right;">20/03/2024</td>
   </tr>
 </table>
