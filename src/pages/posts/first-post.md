@@ -8,7 +8,6 @@ imgAlt: 'IMC_app'
 ---
 
 <h3 style="color: rgb(34, 211, 238); text-align: center;">Individual Mass Index (IMC) App - ReactNative</h3>
-<h3 style="color: rgb(34, 211, 238); text-align: center;">Day 1</h3>
 
 <table>
   <tr>
