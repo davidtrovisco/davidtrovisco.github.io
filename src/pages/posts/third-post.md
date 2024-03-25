@@ -3,15 +3,15 @@ layout: '@/templates/BasePost.astro'
 title: Shopping list App - HTML, CSS and JavaScript + Firebase
 description: Never forget what you need to buy again. Share your list with friends and family."WebApp"
 pubDate: 2020-02-03T00:00:00Z
-imgSrc: ''
-imgAlt: 'Image post 4'
+imgSrc: '/assets/images/shopping_list.png'
+imgAlt: 'Shopping List App'
 ---
 
-<h3 style="color: rgb(34, 211, 238); text-align: center;">Shopping list App - HTML, CSS and JavaScript + Firebase</h3>
+<h3 style="color: rgb(34, 211, 238); text-align: center;">Shopping List App - HTML, CSS and JavaScript + Firebase</h3>
 
 <table>
   <tr>
-    <td><strong>Shopping List App</strong></td>
+    <td><strong>Shopping List "WebApp"</strong></td>
     <td style="text-align: right;"><strong>Last Update/Date</strong></td>
   </tr>
   <tr>
