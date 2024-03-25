@@ -49,6 +49,7 @@ First, imported the React Native dependencies. Imported the React, useState, Vie
 ###
 Also Import the ResultImc component from the "resultImc/resultImc" file and the stylesForm style object from the "formStyle" file. useEffect to update reset state.
 ###
+###
 Finally added style, text, textTitle, view, chartContainer, button, buttonText,viewCenter.
 And here is the end result:
 ###
