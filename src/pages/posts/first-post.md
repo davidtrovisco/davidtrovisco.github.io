@@ -22,6 +22,10 @@ imgAlt: 'IMC_app'
     <td>Preparation dependencies, allowed libraries and Expo CLI.</td>
 <td style="text-align: right;">20/03/2024</td>
   </tr>
+  <tr>
+    <td>Done. Components, style created and tested.</td>
+<td style="text-align: right;">21/03/2024</td>
+  </tr>
 </table>
 <h3 style="color: rgb(34, 211, 238); text-align: center;">Day 1</h3>
 <h5 style="color: white; text-align: center;">19/03/2024</h4>
@@ -36,3 +40,14 @@ Very simple design, but I promise to make it more appealing! :)
 
 <h3 style="color: rgb(34, 211, 238); text-align: center;">Day 2</h3>
 <h5 style="color: white; text-align: center;">20/03/2024</h4>
+
+### App Results
+I have made a very basic version of my app with the following features :
+Just enter the height and weight, and the app will return the person's IMC.
+
+First, imported the React Native dependencies. Imported the React, useState, View, Text, TextInput, Button and TouchableOpacity components from the "react-native" package. Also Import the ResultImc component from the "resultImc/resultImc" file and the stylesForm style object from the "formStyle" file. useEffect to update reset state.
+Finally added style, text, textTitle, view, chartContainer, button, buttonText,viewCenter.
+And here is the end result:
+<img alt="App Results" src="/assets/images/app_results.jpg">
+
+
