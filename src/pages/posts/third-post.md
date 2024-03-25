@@ -1,10 +1,36 @@
 ---
 layout: '@/templates/BasePost.astro'
-title: Soon
-description: Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur vero esse non molestias eos excepturi.
+title: Shopping list App - HTML, CSS and JavaScript + Firebase
+description: Never forget what you need to buy again. Share your list with friends and family."WebApp"
 pubDate: 2020-02-03T00:00:00Z
 imgSrc: ''
 imgAlt: 'Image post 4'
 ---
 
-Full typography example at [this page](../sixth-post/).
+<h3 style="color: rgb(34, 211, 238); text-align: center;">Shopping list App - HTML, CSS and JavaScript + Firebase</h3>
+
+<table>
+  <tr>
+    <td><strong>Shopping List App</strong></td>
+    <td style="text-align: right;"><strong>Last Update/Date</strong></td>
+  </tr>
+  <tr>
+    <td>Setting up app skeleton.</td>
+<td style="text-align: right;">26/03/2024</td>
+  </tr>
+  <tr>
+    <td>Adding CSS.</td>
+<td style="text-align: right;">27/03/2024</td>
+  </tr>
+  <tr>
+    <td>Aside: Firebase Realtime Database.</td>
+<td style="text-align: right;">28/03/2024</td>
+  </tr>
+</table>
+<h3 style="color: rgb(34, 211, 238); text-align: center;">Day 1</h3>
+<h5 style="color: white; text-align: center;">26/03/2024</h4>
+
+### Introduction
+Never forget what you need to buy again. Share your list with friends and family.It will practically be a webapp.
+###
+ 
