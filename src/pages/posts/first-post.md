@@ -38,16 +38,20 @@ This is a simple application developed in React Native that calculates the Indiv
 As we can see in the mockup, we will only use TextInput, Text, and Button.
 Very simple design, but I promise to make it more appealing! :)
 
-<h3 style="color: rgb(34, 211, 238); text-align: center;">Day 2</h3>
-<h5 style="color: white; text-align: center;">20/03/2024</h4>
+<h3 style="color: rgb(34, 211, 238); text-align: center;">Day 2 & Day 3</h3>
+<h5 style="color: white; text-align: center;">20/03/2024 - 21/03/2024</h4>
 
 ### App Results
 I have made a very basic version of my app with the following features :
 Just enter the height and weight, and the app will return the person's IMC.
 
-First, imported the React Native dependencies. Imported the React, useState, View, Text, TextInput, Button and TouchableOpacity components from the "react-native" package. Also Import the ResultImc component from the "resultImc/resultImc" file and the stylesForm style object from the "formStyle" file. useEffect to update reset state.
+First, imported the React Native dependencies. Imported the React, useState, View, Text, TextInput, Button and TouchableOpacity components from the "react-native" package. 
+###
+Also Import the ResultImc component from the "resultImc/resultImc" file and the stylesForm style object from the "formStyle" file. useEffect to update reset state.
+###
 Finally added style, text, textTitle, view, chartContainer, button, buttonText,viewCenter.
 And here is the end result:
+###
 <img alt="App Results" src="/assets/images/app_results.jpg">
 
 
