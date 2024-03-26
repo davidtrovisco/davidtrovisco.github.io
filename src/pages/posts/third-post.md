@@ -27,24 +27,27 @@ imgAlt: 'Shopping List App'
   </tr>
 </table>
 
-<h3 style="color: rgb(34, 211, 238); text-align: center;">Project Files</h3>
 <table>
   <tr>
     <td>
       <a id="gitRepositoryLink" href="https://github.com/davidtrovisco/shopping-list" target="_blank" onclick="incrementClicks()" style="background-color: #D1FAE5; color: #047857; font-size: 0.75rem; font-weight: 500; margin-right: 0.5rem; padding: 0.125rem 0.625rem; border: 1px solid #047857; border-radius: 0.375rem; text-decoration: none;">Git repository (0)</a>
-      <span id="viewProjectButton" style="background-color: #FDE68A; color: #855C1B; font-size: 0.75rem; font-weight: 500; margin-right: 0.5rem; padding: 0.125rem 0.625rem; border: 1px solid #855C1B; border-radius: 0.375rem;">View project</span>
+      <span id="viewProjectButton" style="background-color: #FDE68A; color: #855C1B; font-size: 0.75rem; font-weight: 500; margin-right: 0.5rem; padding: 0.125rem 0.625rem; border: 1px solid #855C1B; border-radius: 0.375rem;">View Project</span>
     </td>
   </tr>
 </table>
 
 <script>
-  let clickCount = 0;
+  let clickCount = localStorage.getItem('clickCount') || 0;
+
+  document.getElementById("gitRepositoryLink").innerText = "Git repository (" + clickCount + ")";
 
   function incrementClicks() {
     clickCount++;
+    localStorage.setItem('clickCount', clickCount);
     document.getElementById("gitRepositoryLink").innerText = "Git repository (" + clickCount + ")";
   }
 </script>
+
 
 <h3 style="color: rgb(34, 211, 238); text-align: center;">Day 1</h3>
 <h5 style="color: white; text-align: center;">26/03/2024</h4>
