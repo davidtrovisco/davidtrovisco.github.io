@@ -67,7 +67,6 @@ This is a simple HTML code template with your JavaScript implemented.
 Here's a simple web app style consisting of a container, buttons, and text with a custom font:
 <img alt="IMC App" src="/assets/images/code_style.png">
 This CSS includes styles for:
-
 Reset CSS to remove default margins and paddings.
 Styling for the container class.
 Styling for buttons with hover effects.
@@ -87,7 +86,14 @@ Essentially, users can add items to the shopping list on the page, and these ite
 Aside: Fetching database items in realtime using onValue.	
 <img alt="IMC App" src="/assets/images/database.png">
 
+### App Results
+<img alt="IMC App" src="/assets/images/result1.png">
 
+In conclusion, this web application provides a straightforward solution for managing a shopping list. By leveraging Firebase Realtime Database, it offers real-time synchronization of data across multiple clients, ensuring that any changes made to the list are instantly reflected for all users. 
+
+The user interface is simple, with an input field for adding items and a list to display them. The code is modular and easy to understand, making it accessible for further customization or integration into larger projects. 
+Overall, this application demonstrates the power and ease of use of Firebase for creating dynamic and collaborative web applications.
+<a target="_blank" href="https://shopping-list-appdt.netlify.app/">Open Project</a>
 
 
 
