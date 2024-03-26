@@ -26,19 +26,16 @@ imgAlt: 'Shopping List App'
 <td style="text-align: right;">28/03/2024</td>
   </tr>
 </table>
-
-<h3 style="color: rgb(34, 211, 238); text-align: center;">Day 1</h3>
-<h5 style="color: white; text-align: center;">26/03/2024</h4>
 <table>
   <tr>
     <td>
       <a href="https://github.com/davidtrovisco/shopping-list" target="_blank" style="background-color: #D1FAE5; color: #047857; font-size: 0.75rem; font-weight: 500; margin-right: 0.5rem; padding: 0.125rem 0.625rem; border: 1px solid #047857; border-radius: 0.375rem; text-decoration: none;">Git repository</a>
-    </td>
-    <td>
-      <a href="#" class="bg-yellow-100 text-yellow-800 text-xs font-medium me-2 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-yellow-300 border border-yellow-300">View project</a>
+      <span style="background-color: #FDE68A; color: #855C1B; font-size: 0.75rem; font-weight: 500; margin-right: 0.5rem; padding: 0.125rem 0.625rem; border: 1px solid #855C1B; border-radius: 0.375rem;">View Project</span>
     </td>
   </tr>
 </table>
+<h3 style="color: rgb(34, 211, 238); text-align: center;">Day 1</h3>
+<h5 style="color: white; text-align: center;">26/03/2024</h4>
 
 ### Introduction
 Never forget what you need to buy again. Share your list with friends and family.It will practically be a webapp.
