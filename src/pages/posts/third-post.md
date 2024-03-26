@@ -23,20 +23,20 @@ imgAlt: 'Shopping List App'
   </tr>
   <tr>
     <td>Aside: Firebase Realtime Database.</td>
-<td style="text-align: right;">28/03/2024</td>
+<td style="text-align: right;">27/03/2024</td>
   </tr>
   <tr>
     <td>Aside: Fetching database items in realtime using onValue.</td>
-<td style="text-align: right;">28/03/2024</td>
+<td style="text-align: right;">27/03/2024</td>
   </tr>
   <td>Updating items in realtime.</td>
-<td style="text-align: right;">28/03/2024</td>
+<td style="text-align: right;">27/03/2024</td>
   </tr>
   <td>For loop to render database items.</td>
-<td style="text-align: right;">28/03/2024</td>
+<td style="text-align: right;">27/03/2024</td>
   </tr>
   <td>Deploy to Netlify.</td>
-<td style="text-align: right;">28/03/2024</td>
+<td style="text-align: right;">27/03/2024</td>
   </tr>
 </table>
 
@@ -87,12 +87,13 @@ Aside: Fetching database items in realtime using onValue.
 <img alt="IMC App" src="/assets/images/database.png">
 
 ### App Results
-<img alt="IMC App" src="/assets/images/result1.png">
-
 In conclusion, this web application provides a straightforward solution for managing a shopping list. By leveraging Firebase Realtime Database, it offers real-time synchronization of data across multiple clients, ensuring that any changes made to the list are instantly reflected for all users. 
+
+<img alt="IMC App" src="/assets/images/result1.png">
 
 The user interface is simple, with an input field for adding items and a list to display them. The code is modular and easy to understand, making it accessible for further customization or integration into larger projects. 
 Overall, this application demonstrates the power and ease of use of Firebase for creating dynamic and collaborative web applications.
+###
 <a target="_blank" href="https://shopping-list-appdt.netlify.app/">Open Project</a>
 
 
