@@ -36,19 +36,6 @@ imgAlt: 'Shopping List App'
   </tr>
 </table>
 
-<script>
-  let clickCount = localStorage.getItem('clickCount') || 0;
-
-  document.getElementById("gitRepositoryLink").innerText = "Git repository (" + clickCount + ")";
-
-  function incrementClicks() {
-    clickCount++;
-    localStorage.setItem('clickCount', clickCount);
-    document.getElementById("gitRepositoryLink").innerText = "Git repository (" + clickCount + ")";
-  }
-</script>
-
-
 <h3 style="color: rgb(34, 211, 238); text-align: center;">Day 1</h3>
 <h5 style="color: white; text-align: center;">26/03/2024</h4>
 
