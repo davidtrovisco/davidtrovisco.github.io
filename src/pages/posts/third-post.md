@@ -54,5 +54,10 @@ imgAlt: 'Shopping List App'
 
 ### Introduction
 Never forget what you need to buy again. Share your list with friends and family.It will practically be a webapp.
-###
  
+ <h3 style="color: rgb(34, 211, 238); text-align: center;">Day 2</h3>
+<h5 style="color: white; text-align: center;">27/03/2024</h4>
+
+
+### Setting up app skeleton
+<img alt="IMC App" src="/assets/images/code_html.png">
