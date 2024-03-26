@@ -11,10 +11,10 @@ imgAlt: 'Shopping List App'
 <table>
   <tr>
     <td>
-      <span class="bg-green-100 text-green-800 text-xs font-medium me-2 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-green-400 border border-green-400">Git repository</span>
+      <span style="background-color: #D1FAE5; color: #047857; font-size: 0.75rem; font-weight: 500; margin-right: 0.5rem; padding: 0.125rem 0.625rem; border: 1px solid #047857; border-radius: 0.375rem;">Git repository</span>
     </td>
     <td>
-      <span class="bg-yellow-100 text-yellow-800 text-xs font-medium me-2 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-yellow-300 border border-yellow-300">View Project</span>
+      <span style="background-color: #FDE68A; color: #855C1B; font-size: 0.75rem; font-weight: 500; margin-right: 0.5rem; padding: 0.125rem 0.625rem; border: 1px solid #855C1B; border-radius: 0.375rem;">View Project</span>
     </td>
   </tr>
 </table>
