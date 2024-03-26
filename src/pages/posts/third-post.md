@@ -8,9 +8,10 @@ imgAlt: 'Shopping List App'
 ---
 
 <h3 style="color: rgb(34, 211, 238); text-align: center;">Shopping List App - HTML, CSS and JavaScript + Firebase</h3>
+<tr>
 <span class="bg-green-100 text-green-800 text-xs font-medium me-2 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-green-400 border border-green-400">Git repository</span>
 <span class="bg-yellow-100 text-yellow-800 text-xs font-medium me-2 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-yellow-300 border border-yellow-300">View Project</span>
-
+</tr>
 <table>
   <tr>
     <td><strong>Shopping List "WebApp"</strong></td>
