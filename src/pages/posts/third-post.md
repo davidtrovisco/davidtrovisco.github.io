@@ -30,7 +30,7 @@ imgAlt: 'Shopping List App'
 <table>
   <tr>
     <td>
-      <a id="gitRepositoryLink" href="https://github.com/davidtrovisco/shopping-list" target="_blank" onclick="incrementClicks()" style="background-color: #D1FAE5; color: #047857; font-size: 0.75rem; font-weight: 500; margin-right: 0.5rem; padding: 0.125rem 0.625rem; border: 1px solid #047857; border-radius: 0.375rem; text-decoration: none;">Git repository (0)</a>
+      <a href="https://github.com/davidtrovisco/shopping-list" style="background-color: #D1FAE5; color: #047857; font-size: 0.75rem; font-weight: 500; margin-right: 0.5rem; padding: 0.125rem 0.625rem; border: 1px solid #047857; border-radius: 0.375rem; text-decoration: none;">Git repository</a>
       <span id="viewProjectButton" style="background-color: #FDE68A; color: #855C1B; font-size: 0.75rem; font-weight: 500; margin-right: 0.5rem; padding: 0.125rem 0.625rem; border: 1px solid #855C1B; border-radius: 0.375rem;">View Project</span>
     </td>
   </tr>
