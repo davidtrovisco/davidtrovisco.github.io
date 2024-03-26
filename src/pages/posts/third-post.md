@@ -1,6 +1,6 @@
 ---
 layout: '@/templates/BasePost.astro'
-title: <span class="bg-green-100 text-green-800 text-xs font-medium me-2 px-2.5 py-0.5 rounded-full dark:bg-green-900 dark:text-green-300">Git Repository</span>
+title: Shopping list App - HTML, CSS and JavaScript + Firebase
 description: Never forget what you need to buy again. Share your list with friends and family."WebApp"
 pubDate: 2024-03-25T00:00:00Z
 imgSrc: '/assets/images/shopping_list.png'
@@ -8,7 +8,8 @@ imgAlt: 'Shopping List App'
 ---
 
 <h3 style="color: rgb(34, 211, 238); text-align: center;">Shopping List App - HTML, CSS and JavaScript + Firebase</h3>
-<span class="bg-green-100 text-green-800 text-xs font-medium me-2 px-2.5 py-0.5 rounded-full dark:bg-green-900 dark:text-green-300">Git Repository</span>
+<span class="bg-green-100 text-green-800 text-xs font-medium me-2 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-green-400 border border-green-400">Git repository</span>
+<span class="bg-yellow-100 text-yellow-800 text-xs font-medium me-2 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-yellow-300 border border-yellow-300">View Project</span>
 
 <table>
   <tr>
