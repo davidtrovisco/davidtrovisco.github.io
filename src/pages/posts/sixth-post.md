@@ -7,7 +7,7 @@ imgSrc: '/assets/images/carwash.jpg'
 imgAlt: 'python_project_workshops'
 ---
 
-<h3 style="color: rgb(34, 211, 238); text-align: center;">Python Workshops and Jet Washes Project</h3>
+<h3 style="color: rgb(34, 211, 238); text-align: center;">Python Jet Washes Project</h3>
 
 I'm creating a project for workshops and car washes that will be done in Python with the Django framework.
 
