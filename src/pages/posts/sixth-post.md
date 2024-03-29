@@ -1,10 +1,12 @@
 ---
 layout: '@/templates/BasePost.astro'
-title: House Rents
-description: This Angular-created app lists various houses that are available for rent and displays the details of individual houses. 
+title: Python Workshops and Jet Washes Projects
+description: Developing an application for workshops and car washes with Python and Django.
 pubDate: 2024-01-06T00:00:00Z
-imgSrc: 'https://cdn3d.iconscout.com/3d/premium/thumb/building-2871538-2389344.png?f=webp'
-imgAlt: 'Image post'
+imgSrc: '/assets/images/carwash.jpg'
+imgAlt: 'python_project_workshops'
 ---
 
-Soon all infos.
+30/03/2024
+I'm creating a project for workshops and car washes that will be done in Python with the Django framework.
+<img alt="IMC App" src="/assets/images/giphy.gif">
