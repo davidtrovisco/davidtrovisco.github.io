@@ -21,7 +21,7 @@ I'm creating a project for workshops and car washes that will be done in Python 
 <td style="text-align: right;">29/03/2024</td>
   </tr>
   <tr>
-    <td>Created the virtual environment, activated venv and installed the Django Framework.</td>
+    <td>Created the virtual environment, activated venv and installed the Django.</td>
 <td style="text-align: right;">29/03/2024</td>
   </tr>
 </table>
