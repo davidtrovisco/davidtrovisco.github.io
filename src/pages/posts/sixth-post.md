@@ -7,6 +7,21 @@ imgSrc: '/assets/images/carwash.jpg'
 imgAlt: 'python_project_workshops'
 ---
 
-30/03/2024
+<h3 style="color: rgb(34, 211, 238); text-align: center;">Python Workshops and Jet Washes Project</h3>
+
 I'm creating a project for workshops and car washes that will be done in Python with the Django framework.
-<img alt="IMC App" src="/assets/images/giphy.gif">
+
+<table>
+  <tr>
+    <td><strong>Python Workshops and Jet Washes Projects</strong></td>
+    <td style="text-align: right;"><strong>Last Update/Date</strong></td>
+  </tr>
+  <tr>
+    <td>Presentation of the python project.</td>
+<td style="text-align: right;">29/03/2024</td>
+  </tr>
+  <tr>
+    <td>Created the virtual environment, activated venv and installed the Django Framework.</td>
+<td style="text-align: right;">29/03/2024</td>
+  </tr>
+</table>
