@@ -64,10 +64,9 @@ Never forget what you need to buy again. Share your list with friends and family
 This is a simple HTML code template with your JavaScript implemented.
 
 ### Adding CSS
-Here's a simple web app style consisting of a container, buttons, and text with a custom font:
-<img alt="IMC App" src="/assets/images/code_style.png">
-This CSS includes styles for:
-Reset CSS to remove default margins and paddings.
+Simple web app style consisting of a container, buttons, and text with a custom font:
+The CSS includes styles for:
+Reseted CSS to remove default margins and paddings.
 Styling for the container class.
 Styling for buttons with hover effects.
 Styling for text with a custom font, size, and color.
