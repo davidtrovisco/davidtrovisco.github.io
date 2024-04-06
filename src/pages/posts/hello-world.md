@@ -86,9 +86,17 @@ imgAlt: 'Image post 6'
 </table>
 
 ##
-<h3 style="color: rgb(34, 211, 238); text-align: center;">Certifications</h3>
+<h3 style="color: rgb(34, 211, 238); text-align: center;">Certifications and Courses</h3>
 <table>
   <tr>
+  <tr>
+    <td><strong>NoCode Institute - Software Development NoCode programming</strong></td>
+<td style="text-align: right;"><strong>2024</strong></td>
+  </tr>
+  <tr>
+    <td><strong>AWS - Diploma in Web Services</strong></td>
+<td style="text-align: right;"><strong>2024</strong></td>
+  </tr>
    <tr>
     <td><strong>HackingRio'20 - International Hackathon</strong></td>
 <td style="text-align: right;"><strong>2020</strong></td>
@@ -104,19 +112,6 @@ imgAlt: 'Image post 6'
   <td><strong>CCNA - Enterprise Networking, Security, and Automation Cisco</strong></td>
 <td style="text-align: right;"><strong>2019</strong></td>
   </tr>
-  </tr>
-</table>
-
-###
-<h3 style="color: rgb(34, 211, 238); text-align: center;">Courses</h3>
-<table>
-  <tr>
-    <td><strong>AWS - Diploma in Web Services</strong></td>
-<td style="text-align: right;"><strong>2024</strong></td>
-  </tr>
-  <tr>
-    <td><strong>NoCode Institute - Software Development NoCode programming</strong></td>
-<td style="text-align: right;"><strong>2024</strong></td>
   </tr>
 </table>
 
