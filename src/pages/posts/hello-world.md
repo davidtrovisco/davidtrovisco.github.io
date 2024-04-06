@@ -90,6 +90,10 @@ imgAlt: 'Image post 6'
 <table>
   <tr>
   <tr>
+    <td><strong>GreatLearning - Python for Beginners</strong></td>
+<td style="text-align: right;"><strong>2024</strong></td>
+  </tr>
+  <tr>
     <td><strong>NoCode Institute - Software Development NoCode programming</strong></td>
 <td style="text-align: right;"><strong>2024</strong></td>
   </tr>
