@@ -54,21 +54,17 @@ Elements used:
 
 ###
 Functionalities:
-###
 
 Implementation of the BotChat in the bottom right corner, allowing users to ask various questions. The AI, Intercom, handles responses to facilitate user search through the chat.
-###
 
 Dashboard of the Bot Chat implemented, accessible only to the website admin. Admin can maintain the chat and create custom questions. The chat ID must be provided in framer.ai for proper functionality.
 On the jobs page, users can respond to a questionnaire by providing their details (name, email, and answering the question). The Formspark ID must be provided for correct operation. Once all fields are filled, the data is sent to the FormSpark dashboard.
-###
 
 Implemented HTML code displays random usage statistics, such as the number of current users and their city/country, creating a sense of real-time usage. The page features various animations throughout.
 Location Selector, specifically localizations, essential for displaying website languages. Only the Portuguese language was implemented, as English is already default.
 ###
 
 Ideas:
-###
 In the future, the website will connect to a converted API. Since framer.ai only accepts API data via CSV, data from an external API will be implemented.
 
 <table>
