@@ -7,8 +7,9 @@ imgSrc: '/assets/images/localizations.png'
 imgAlt: 'ThreeApp UI/UX design'
 ---
 
-<img title="a title" alt="Alt text" src="/assets/images/localizations.png">
+## ThreeApp UI/UX design
 
+###
 And I've reached the end of the NoCodeFastTrack challenge from Nocode Institute.io! It's been two incredible weeks, full of learning and exciting discoveries in the world of NoCode. 
 I dedicated myself to enhancing an application I had already created and decided to expand its presence by creating a complementary web page. 
 Leveraging all my knowledge in UI/UX, I worked on the complete design of the page, aiming to provide an exceptional experience to users. 
@@ -16,7 +17,10 @@ I want to express my gratitude to the Nocode Institute.io for offering this amaz
 ###
 📹 If you'd like to check out the final result of the project, feel free to watch the video I shared:
 
-![Alt text](https://www.youtube.com/watch?v=YQFvderlRQg&ab_channel=DavideTrovisco)
+<video width="320" height="240" controls>
+  <source src="ThreeApp.mp4" type="video/mp4">
+</video>
+
 
 
 
