@@ -15,9 +15,11 @@ I want to express my gratitude to the Nocode Institute.io for offering this amaz
 ###
 📹 If you'd like to check out the final result of the project, feel free to watch the video I shared:
 
-<video width="640" height="480" controls>
-  <source src="/assets/images/ThreeApp.mp4" type="video/mp4">
-</video>
+<div class="video-container">
+  <video width="640" height="480" controls style="border: 2px solid #ccc;">
+    <source src="/assets/images/ThreeApp.mp4" type="video/mp4">
+  </video>
+</div>
 
 
 
