@@ -65,6 +65,7 @@ Location Selector, specifically localizations, essential for displaying website 
 ###
 
 Ideas:
+###
 In the future, the website will connect to a converted API. Since framer.ai only accepts API data via CSV, data from an external API will be implemented.
 
 <table>
