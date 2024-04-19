@@ -24,6 +24,7 @@ For my final project, I decided to create a web page for an application (ThreeAp
 
 ###
 Pages created:
+###
 HomePage;
 • About us;
 • Investors;
@@ -37,8 +38,9 @@ HomePage;
 • AndroidApp;
 • JuniorJob;
 • SeniorJob;
-
+###
 Elements used:
+###
 • Navbar;
 • Dot Lottie (Animations);
 • Embed Html code;
