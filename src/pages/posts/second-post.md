@@ -52,4 +52,10 @@ Elements used:
 • Memoji;
 • Noise Pattern;
 
-
+<table>
+  <tr>
+    <td>
+      <a href="https://threeapp.framer.website/" style="background-color: #FDE68A; color: #855C1B; font-size: 0.75rem; font-weight: 500; margin-right: 0.5rem; padding: 0.125rem 0.625rem; border: 1px solid #855C1B; border-radius: 0.375rem;">View Project</a>
+    </td>
+  </tr>
+</table>
