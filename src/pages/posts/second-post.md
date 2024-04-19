@@ -17,8 +17,8 @@ I want to express my gratitude to the Nocode Institute.io for offering this amaz
 ###
 📹 If you'd like to check out the final result of the project, feel free to watch the video I shared:
 
-<video width="320" height="240" controls>
-  <source src="ThreeApp.mp4" type="video/mp4">
+<video width="640" height="480" controls>
+  <source src="/assets/images/ThreeApp.mp4" type="video/quicktime">
 </video>
 
 
