@@ -19,6 +19,35 @@ I want to express my gratitude to the Nocode Institute.io for offering this amaz
   <source src="/assets/images/ThreeApp.mp4" type="video/mp4">
 </video>
 
+###
+For my final project, I decided to create a web page for an application (ThreeApp) that I had created a few years ago.
 
+###
+Pages created:
+HomePage;
+• About us;
+• Investors;
+• Safety;
+• Sustainability;
+• Careers;
+• FAQs;
+• Signup;
+• Jobs;
+• ComingSoon;
+• AndroidApp;
+• JuniorJob;
+• SeniorJob;
+
+Elements used:
+• Navbar;
+• Dot Lottie (Animations);
+• Embed Html code;
+• Countdown;
+• Formspark;
+• Intercom;
+• Ticker;
+• Locale Selector (Localizations);
+• Memoji;
+• Noise Pattern;
 
 
