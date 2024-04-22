@@ -41,6 +41,7 @@ imgAlt: 'Image post 6'
       Junior Software Developer - FullStack Developer / DevOps
       <br>
       <span class="bg-blue-100 text-blue-800 text-xs font-medium me-2 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-blue-400 border border-blue-400">.Net/.NetCore</span>
+      <span class="bg-blue-100 text-blue-800 text-xs font-medium me-2 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-blue-400 border border-blue-400">C#</span>
       <span class="bg-blue-100 text-blue-800 text-xs font-medium me-2 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-blue-400 border border-blue-400">Bootstrap</span>
       <span class="bg-blue-100 text-blue-800 text-xs font-medium me-2 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-blue-400 border border-blue-400">ASP.Net Web API</span>
       <span class="bg-blue-100 text-blue-800 text-xs font-medium me-2 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-blue-400 border border-blue-400">Syncfusion</span>
@@ -89,6 +90,10 @@ imgAlt: 'Image post 6'
 <h3 style="color: rgb(34, 211, 238); text-align: center;">Certifications and Courses</h3>
 <table>
   <tr>
+  <tr>
+    <td><strong>AWS - Cloud Essentials</strong></td>
+<td style="text-align: right;"><strong>2024</strong></td>
+  </tr>
   <tr>
     <td><strong>GreatLearning - Python for Beginners</strong></td>
 <td style="text-align: right;"><strong>2024</strong></td>
