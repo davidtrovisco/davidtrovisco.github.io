@@ -91,6 +91,14 @@ imgAlt: 'Image post 6'
 <table>
   <tr>
   <tr>
+    <td><strong>Google - Fundamentals of User Experience (UX) Design</strong></td>
+<td style="text-align: right;"><strong>2024</strong></td>
+  </tr>
+  <tr>
+    <td><strong>freeCodeCamp - Responsive Web Design</strong></td>
+<td style="text-align: right;"><strong>2024</strong></td>
+  </tr>
+  <tr>
     <td><strong>AWS - Cloud Essentials</strong></td>
 <td style="text-align: right;"><strong>2024</strong></td>
   </tr>
