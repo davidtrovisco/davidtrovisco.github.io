@@ -90,47 +90,52 @@ imgAlt: 'Image post 6'
 <h3 style="color: rgb(34, 211, 238); text-align: center;">Certifications and Courses</h3>
 <table>
   <tr>
-  <tr>
-    <td><strong>Google - Fundamentals of User Experience (UX) Design</strong></td>
-<td style="text-align: right;"><strong>2024</strong></td>
+    <td>
+      <a href="https://www.coursera.org/account/accomplishments/verify/248ST9ATUJ8B">
+        <i class="fas fa-link"></i>
+        <strong>Google - Fundamentals of User Experience (UX) Design</strong>
+      </a>
+    </td>
+    <td style="text-align: right;"><strong>2024</strong></td>
   </tr>
   <tr>
     <td><strong>freeCodeCamp - Responsive Web Design</strong></td>
-<td style="text-align: right;"><strong>2024</strong></td>
+    <td style="text-align: right;"><strong>2024</strong></td>
   </tr>
   <tr>
     <td><strong>AWS - Cloud Essentials</strong></td>
-<td style="text-align: right;"><strong>2024</strong></td>
+    <td style="text-align: right;"><strong>2024</strong></td>
   </tr>
   <tr>
     <td><strong>GreatLearning - Python for Beginners</strong></td>
-<td style="text-align: right;"><strong>2024</strong></td>
+    <td style="text-align: right;"><strong>2024</strong></td>
   </tr>
   <tr>
     <td><strong>NoCode Institute - Software Development NoCode programming</strong></td>
-<td style="text-align: right;"><strong>2024</strong></td>
+    <td style="text-align: right;"><strong>2024</strong></td>
   </tr>
   <tr>
     <td><strong>AWS - Diploma in Web Services</strong></td>
-<td style="text-align: right;"><strong>2024</strong></td>
+    <td style="text-align: right;"><strong>2024</strong></td>
   </tr>
-   <tr>
+  <tr>
     <td><strong>HackingRio'20 - International Hackathon</strong></td>
-<td style="text-align: right;"><strong>2020</strong></td>
+    <td style="text-align: right;"><strong>2020</strong></td>
   </tr>
   <tr>
     <td><strong>OE - Participação Ordem dos Engenheiros Webinar</strong></td>
-<td style="text-align: right;"><strong>2020</strong></td>
+    <td style="text-align: right;"><strong>2020</strong></td>
   </tr>
   <tr>
     <td><strong>CCNA - Routing and Switching Cisco</strong></td>
-<td style="text-align: right;"><strong>2019</strong></td>
+    <td style="text-align: right;"><strong>2019</strong></td>
   </tr>
-  <td><strong>CCNA - Enterprise Networking, Security, and Automation Cisco</strong></td>
-<td style="text-align: right;"><strong>2019</strong></td>
-  </tr>
+  <tr>
+    <td><strong>CCNA - Enterprise Networking, Security, and Automation Cisco</strong></td>
+    <td style="text-align: right;"><strong>2019</strong></td>
   </tr>
 </table>
+
 
 ###
 <h3 style="color: rgb(34, 211, 238); text-align: center;">Interests and Hobbies</h3>
