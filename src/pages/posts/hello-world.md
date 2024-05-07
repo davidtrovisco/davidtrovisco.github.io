@@ -92,49 +92,68 @@ imgAlt: 'Image post 6'
   <tr>
     <td>
       <a href="https://www.coursera.org/account/accomplishments/verify/248ST9ATUJ8B">
-        <i class="fas fa-link"></i>
+        &#128279;
         <strong>Google - Fundamentals of User Experience (UX) Design</strong>
       </a>
     </td>
     <td style="text-align: right;"><strong>2024</strong></td>
   </tr>
   <tr>
-    <td><strong>freeCodeCamp - Responsive Web Design</strong></td>
+    <td>
+      <strong>freeCodeCamp - Responsive Web Design</strong>
+    </td>
     <td style="text-align: right;"><strong>2024</strong></td>
   </tr>
   <tr>
-    <td><strong>AWS - Cloud Essentials</strong></td>
+    <td>
+      <strong>AWS - Cloud Essentials</strong>
+    </td>
     <td style="text-align: right;"><strong>2024</strong></td>
   </tr>
   <tr>
-    <td><strong>GreatLearning - Python for Beginners</strong></td>
+    <td>
+      <strong>GreatLearning - Python for Beginners</strong>
+    </td>
     <td style="text-align: right;"><strong>2024</strong></td>
   </tr>
   <tr>
-    <td><strong>NoCode Institute - Software Development NoCode programming</strong></td>
+    <td>
+      <strong>NoCode Institute - Software Development NoCode programming</strong>
+    </td>
     <td style="text-align: right;"><strong>2024</strong></td>
   </tr>
   <tr>
-    <td><strong>AWS - Diploma in Web Services</strong></td>
+    <td>
+      <strong>AWS - Diploma in Web Services</strong>
+    </td>
     <td style="text-align: right;"><strong>2024</strong></td>
   </tr>
   <tr>
-    <td><strong>HackingRio'20 - International Hackathon</strong></td>
+    <td>
+      <strong>HackingRio'20 - International Hackathon</strong>
+    </td>
     <td style="text-align: right;"><strong>2020</strong></td>
   </tr>
   <tr>
-    <td><strong>OE - Participação Ordem dos Engenheiros Webinar</strong></td>
+    <td>
+      <strong>OE - Participação Ordem dos Engenheiros Webinar</strong>
+    </td>
     <td style="text-align: right;"><strong>2020</strong></td>
   </tr>
   <tr>
-    <td><strong>CCNA - Routing and Switching Cisco</strong></td>
+    <td>
+      <strong>CCNA - Routing and Switching Cisco</strong>
+    </td>
     <td style="text-align: right;"><strong>2019</strong></td>
   </tr>
   <tr>
-    <td><strong>CCNA - Enterprise Networking, Security, and Automation Cisco</strong></td>
+    <td>
+      <strong>CCNA - Enterprise Networking, Security, and Automation Cisco</strong>
+    </td>
     <td style="text-align: right;"><strong>2019</strong></td>
   </tr>
 </table>
+
 
 
 ###
