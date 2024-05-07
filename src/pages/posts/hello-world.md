@@ -100,18 +100,24 @@ imgAlt: 'Image post 6'
   </tr>
   <tr>
     <td>
+      <a href="https://www.freecodecamp.org/certification/fccc7d198d6-1219-4b48-b9f6-cbb3a9ef0c25/responsive-web-design">
+        &#128279;
       <strong>freeCodeCamp - Responsive Web Design</strong>
     </td>
     <td style="text-align: right;"><strong>2024</strong></td>
   </tr>
   <tr>
     <td>
+      <a href="https://www.credly.com/badges/2b52495c-e436-44e3-9a86-08998e32e358/linked_in_profile">
+        &#128279;
       <strong>AWS - Cloud Essentials</strong>
     </td>
     <td style="text-align: right;"><strong>2024</strong></td>
   </tr>
   <tr>
     <td>
+      <a href="https://www.linkedin.com/in/davide-trovisco-440b5717a/details/certifications/1712265555663/single-media-viewer/?profileId=ACoAACqHarABGn5ng6AJw92TScq1hpgXNAiJB9U">
+        &#128279;
       <strong>GreatLearning - Python for Beginners</strong>
     </td>
     <td style="text-align: right;"><strong>2024</strong></td>
@@ -130,6 +136,8 @@ imgAlt: 'Image post 6'
   </tr>
   <tr>
     <td>
+      <a href="https://github.com/davidtrovisco/HackingRio-20-ChangeNow-Project">
+        &#128279;
       <strong>HackingRio'20 - International Hackathon</strong>
     </td>
     <td style="text-align: right;"><strong>2020</strong></td>
