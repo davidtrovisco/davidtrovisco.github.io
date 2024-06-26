@@ -7,7 +7,7 @@ imgSrc: '/assets/images/shopping_list.png'
 imgAlt: 'Shopping List App'
 ---
 
-<h3 style="color: rgb(34, 211, 238); text-align: center;">Shopping List App - HTML, CSS and JavaScript + Firebase</h3>
+<h3 style="color: rgb(34, 211, 238); text-align: center;">Hello guys! Say hello to my new app called: "Taskly"</h3>
 <table>
   <tr>
     <td><strong>Taskly</strong></td>
