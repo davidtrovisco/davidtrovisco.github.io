@@ -17,7 +17,6 @@ imgAlt: 'TickMan'
     </p>
 </body>
 <h3 style="color: rgb(34, 211, 238); text-align: center;">Project Info</h3>
-<img title="a title" alt="Alt text" src="/assets/images/tickman1.png">
 <strong>Adding New Records:</strong>
 <ul>
     <li>Navigate to the "New Incident" tab.</li>
