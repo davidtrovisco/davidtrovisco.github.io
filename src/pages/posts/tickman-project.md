@@ -17,12 +17,14 @@ imgAlt: 'TickMan'
     </p>
 </body>
 <h3 style="color: rgb(34, 211, 238); text-align: center;">Project Info</h3>
+<img title="a title" alt="Alt text" src="/assets/images/tickman1.png">
 <strong>Adding New Records:</strong>
 <ul>
     <li>Navigate to the "New Incident" tab.</li>
     <li>Fill in the necessary details: Title, Description, Category, Department, DateTime, Priority, and Author.</li>
     <li>Click "Save" to register the new incident.</li>
 </ul>
+<img title="a title" alt="Alt text" src="/assets/images/tickman3.png">
 <strong>Removing Records:</strong>
 <ul>
     <li>In the "Incident List" tab, select the incident you want to remove.</li>
@@ -42,15 +44,19 @@ imgAlt: 'TickMan'
 <ul>
     <li>All incidents are automatically saved in the application's database. To save changes to an existing incident, use the "Edit" functionality.</li>
 </ul>
+<img title="a title" alt="Alt text" src="/assets/images/tickman5.png">
 <strong>Generating QR Codes:</strong>
 <ul>
     <li>In the "Incident List" tab, select an incident.</li>
     <li>Click the "Generate QR Code" button to create a QR code containing the incident's details.</li>
 </ul>
+<img title="a title" alt="Alt text" src="/assets/images/tickman8.png">
+<img title="a title" alt="Alt text" src="/assets/images/tickman9.png">
 <strong>Exporting Data:</strong>
 <ul>
     <li>In the "Incident List" tab, use the "Export" button to export data to .pdf, .xlsx, or .doc format.</li>
 </ul>
+<img title="a title" alt="Alt text" src="/assets/images/tickman2.png">
 <strong>Clearing Data Fields:</strong>
 <ul>
     <li>In the "New Incident" tab, click the "Clear Data" button to reset all input fields.</li>
@@ -61,6 +67,7 @@ imgAlt: 'TickMan'
     <li>Select the desired language: Portuguese, English, Chinese, Spanish, or Arabic.</li>
     <li>The application interface will update to the selected language.</li>
 </ul>
+<img title="a title" alt="Alt text" src="/assets/images/tickman6.png">
 <strong>Technical Details:</strong>
 <ul>
     <li>Platform: WPF (Windows Presentation Foundation)</li>
@@ -69,15 +76,6 @@ imgAlt: 'TickMan'
     <li>UI Framework: DevExpress</li>
 </ul>
 
-<img title="a title" alt="Alt text" src="/assets/images/tickman1.png">
-<img title="a title" alt="Alt text" src="/assets/images/tickman2.png">
-<img title="a title" alt="Alt text" src="/assets/images/tickman3.png">
-<img title="a title" alt="Alt text" src="/assets/images/tickman4.png">
-<img title="a title" alt="Alt text" src="/assets/images/tickman5.png">
-<img title="a title" alt="Alt text" src="/assets/images/tickman6.png">
-<img title="a title" alt="Alt text" src="/assets/images/tickman7.png">
-<img title="a title" alt="Alt text" src="/assets/images/tickman8.png">
-<img title="a title" alt="Alt text" src="/assets/images/tickman9.png">
 
 <h3 style="color: rgb(34, 211, 238); text-align: center;">Video Demo:</h3>
 <video width="640" height="480" controls>
