@@ -69,11 +69,15 @@ imgAlt: 'TickMan'
     <li>UI Framework: DevExpress</li>
 </ul>
 
-<img title="a title" alt="Alt text" src="/assets/images/taskly1.png">
-<img title="a title" alt="Alt text" src="/assets/images/taskly2.png">
-<img title="a title" alt="Alt text" src="/assets/images/taskly3.png">
-<img title="a title" alt="Alt text" src="/assets/images/taskly4.png">
-<img title="a title" alt="Alt text" src="/assets/images/taskly5.png">
+<img title="a title" alt="Alt text" src="/assets/images/tickman1.png">
+<img title="a title" alt="Alt text" src="/assets/images/tickman2.png">
+<img title="a title" alt="Alt text" src="/assets/images/tickman3.png">
+<img title="a title" alt="Alt text" src="/assets/images/tickman4.png">
+<img title="a title" alt="Alt text" src="/assets/images/tickman5.png">
+<img title="a title" alt="Alt text" src="/assets/images/tickman6.png">
+<img title="a title" alt="Alt text" src="/assets/images/tickman7.png">
+<img title="a title" alt="Alt text" src="/assets/images/tickman8.png">
+<img title="a title" alt="Alt text" src="/assets/images/tickman9.png">
 
 <h3 style="color: rgb(34, 211, 238); text-align: center;">Video Demo:</h3>
 <video width="640" height="480" controls>
