@@ -13,7 +13,7 @@ imgAlt: 'TickMan'
 <body>
     <h3 style="color: rgb(34, 211, 238); text-align: center;">TickMan Features</h3>
     <p style="text-align: justify;">
-    TickMan es una aplicación de escritorio innovadora diseñada para departamentos de TI con el fin de agilizar la gestión de incidentes. Construida sobre la robusta plataforma WPF/C# y siguiendo el patrón de diseño MVVM, TickMan ofrece una experiencia de usuario fluida y eficiente. La aplicación está diseñada para manejar el ciclo de vida completo de la gestión de incidentes, desde el registro inicial hasta la resolución, proporcionando una solución integral para los equipos de TI.
+  TickMan is an innovative desktop application designed for IT departments to streamline incident management. Built on the robust WPF/C# platform and following the MVVM design pattern, TickMan delivers a smooth and efficient user experience. The application is designed to handle the complete lifecycle of incident management, from initial registration through to resolution, providing a comprehensive solution for IT teams.
     </p>
 </body>
 <h3 style="color: rgb(34, 211, 238); text-align: center;">Project Info</h3>
