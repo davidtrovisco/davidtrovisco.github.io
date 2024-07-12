@@ -20,7 +20,7 @@ const Hero = () => (
             Software Engineer,
           </a>{' '}
           <a className="text-cyan-400" href="/">
-            FullStack Developer,
+            FullStack Developer
           </a>{' '}
           and{' '}
           <a className="text-cyan-400" href="/">
@@ -56,6 +56,12 @@ const Hero = () => (
               src="https://img.icons8.com/?size=256&id=s9k2rXOtb7lB&format=png"
               alt="Google Play Apps"
             />
+          </a>
+          <a>
+            ![Profile
+            views](https://visitor-badge.glitch.me/badge?page_id=davidtrovisco.davidtrovisco)
+            ![Eye
+            icon](https://img.shields.io/badge/Eye-000000?style=flat&logo=eyeem&logoColor=white)
           </a>
         </>
       }
