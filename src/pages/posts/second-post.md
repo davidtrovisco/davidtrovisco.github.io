@@ -6,6 +6,7 @@ pubDate: 2024-04-19T00:00:00Z
 imgSrc: '/assets/images/localizations.png'
 imgAlt: 'ThreeApp UI/UX design'
 ---
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=davidtrovisco.threeapp)
 
 ###
 And I've reached the end of the NoCodeFastTrack challenge from Nocode Institute.io! It's been two incredible weeks, full of learning and exciting discoveries in the world of NoCode. 

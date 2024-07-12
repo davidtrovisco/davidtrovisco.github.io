@@ -6,6 +6,7 @@ pubDate: 2024-01-06T00:00:00Z
 imgSrc: '/assets/images/carwash.jpg'
 imgAlt: 'python_project_workshops'
 ---
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=davidtrovisco.pythonproject)
 
 <h3 style="color: rgb(34, 211, 238); text-align: center;">Python Workshops and Jet Washes Project</h3>
 

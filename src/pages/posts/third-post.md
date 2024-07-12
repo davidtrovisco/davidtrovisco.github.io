@@ -6,6 +6,7 @@ pubDate: 2024-03-25T00:00:00Z
 imgSrc: '/assets/images/shopping_list.png'
 imgAlt: 'Shopping List App'
 ---
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=davidtrovisco.shoopinglistapp)
 
 <h3 style="color: rgb(34, 211, 238); text-align: center;">Shopping List App - HTML, CSS and JavaScript + Firebase</h3>
 <table>

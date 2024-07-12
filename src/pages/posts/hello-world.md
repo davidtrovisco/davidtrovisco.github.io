@@ -6,6 +6,8 @@ pubDate:
 imgSrc: 'https://cdn3d.iconscout.com/3d/premium/thumb/user-shopping-wishlist-2869720-2384356.png?f=webp'
 imgAlt: 'Image post 6'
 ---
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=davidtrovisco.experience)
+
 <h3 style="color: rgb(34, 211, 238); text-align: center;">Education</h3>
 
 <table>

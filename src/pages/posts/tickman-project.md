@@ -6,6 +6,7 @@ pubDate: 2024-03-25T00:00:00Z
 imgSrc: '/assets/images/tickman_file.jpg'
 imgAlt: 'TickMan'
 ---
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=davidtrovisco.tickman)
 
 <h3 style="color: rgb(34, 211, 238); text-align: center;">TickMan - Incident Management C# SQLServer DevExpress WPF and MVVM</h3>
 <img title="a title" alt="Alt text" src="/assets/images/tickman1.png">

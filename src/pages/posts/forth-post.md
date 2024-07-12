@@ -6,6 +6,7 @@ pubDate: 2024-03-17T00:00:00Z
 imgSrc: '/assets/images/apps.png'
 imgAlt: 'Apps and Games made by me'
 ---
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=davidtrovisco.androidapps)
 
 <h3 style="color: rgb(34, 211, 238); text-align: center;">My Android Games and Apps</h3>
 As an enthusiast of application and game development, my passion lies in creating engaging digital experiences. With several applications already published on the Google Play Store, I am constantly seeking ways to innovate and delight users with my creations.
