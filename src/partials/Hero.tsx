@@ -57,8 +57,11 @@ const Hero = () => (
               alt="Google Play Apps"
             />
           </a>
-          <a>
-            ![Static Badge](https://img.shields.io/badge/Open_to_work-8A2BE2)
+          <a href="#">
+            <img
+              src="https://img.shields.io/badge/Open_to_work-8A2BE2"
+              alt="Static Badge"
+            />
           </a>
         </>
       }
