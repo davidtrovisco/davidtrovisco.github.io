@@ -64,7 +64,7 @@ const Hero = () => (
             />
           </a>
           <a>
-            ![VisitorCount](https://visitor-badge.laobi.icu/badge?page_id=davidtrovisco.github.io)
+            [![VisitorCount](https://visitor-badge.laobi.icu/badge?page_id=davidtrovisco.github.io)](https://visitor-badge.laobi.icu/badge?page_id=davidtrovisco.github.io)
           </a>
         </>
       }
