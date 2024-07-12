@@ -57,11 +57,15 @@ const Hero = () => (
               alt="Google Play Apps"
             />
           </a>
-          <a>
-            ![Profile
-            views](https://visitor-badge.glitch.me/badge?page_id=davidtrovisco.davidtrovisco)
-            ![Eye
-            icon](https://img.shields.io/badge/Eye-000000?style=flat&logo=eyeem&logoColor=white)
+          <a href="#">
+            <img
+              src="https://visitor-badge.glitch.me/badge?page_id=davidtrovisco.davidtrovisco"
+              alt="Profile views"
+            />
+            <img
+              src="https://img.shields.io/badge/Eye-000000?style=flat&logo=eyeem&logoColor=white"
+              alt="Eye icon"
+            />
           </a>
         </>
       }
