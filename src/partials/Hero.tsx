@@ -58,14 +58,8 @@ const Hero = () => (
             />
           </a>
           <a href="#">
-            <img
-              src="https://visitor-badge.glitch.me/badge?page_id=davidtrovisco.davidtrovisco"
-              alt="Profile views"
-            />
-            <img
-              src="https://img.shields.io/badge/Eye-000000?style=flat&logo=eyeem&logoColor=white"
-              alt="Eye icon"
-            />
+            ![Profile
+            Views](https://img.shields.io/badge/Profile%20Views-000000?style=plastic&logo=eye&logoColor=white)
           </a>
         </>
       }
