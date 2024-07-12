@@ -63,6 +63,12 @@ const Hero = () => (
               alt="Static Badge"
             />
           </a>
+          <a href="#">
+            <img
+              src="https://shields-io-visitor-counter.herokuapp.com/badge?page=davidtrovisco.github.io&label=My%20First%20Counter&labelColor=000000&logo=GitHub&logoColor=FFFFFF&color=1D70B8&style=for-the-badge"
+              alt="Static Badge"
+            />
+          </a>
         </>
       }
     />
