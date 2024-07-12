@@ -57,16 +57,11 @@ const Hero = () => (
               alt="Google Play Apps"
             />
           </a>
-          <a href="#">
+          <a href="#" style={{ position: 'relative', display: 'inline-block' }}>
             <img
-              src="https://img.shields.io/badge/Open_to_work-6ab04c"
+              src="https://img.shields.io/badge/Open_to_work!-686de0"
               alt="Static Badge"
-            />
-          </a>
-          <a href="#">
-            <img
-              src="https://shields-io-visitor-counter.herokuapp.com/badge?page=davidtrovisco.github.io&label=My%20First%20Counter&labelColor=000000&logo=GitHub&logoColor=FFFFFF&color=1D70B8&style=for-the-badge"
-              alt="Static Badge"
+              style={{ transition: 'transform 0.2s ease-in-out' }}
             />
           </a>
         </>
