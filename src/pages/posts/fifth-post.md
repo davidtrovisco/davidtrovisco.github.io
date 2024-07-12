@@ -6,6 +6,7 @@ pubDate: 2020-02-05T00:00:00Z
 imgSrc: '/assets/images/img_shopify.png'
 imgAlt: 'Image Puppie Shopify'
 ---
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=davidtrovisco.puppie)
 
 
 ### Puppie Shopify Project
