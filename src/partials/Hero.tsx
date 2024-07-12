@@ -62,6 +62,7 @@ const Hero = () => (
               src="https://img.shields.io/badge/Open_to_work-8A2BE2"
               alt="Static Badge"
             />
+            ![visitors](https://visitor-badge.laobi.icu/badge?page_id=davidtrovisco.davidtrovisco.github.io)
           </a>
         </>
       }
