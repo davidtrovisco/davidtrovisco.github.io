@@ -5,7 +5,16 @@ description: Manage your tasks simply.
 pubDate: 2024-03-25T00:00:00Z
 imgSrc: '/assets/images/taskly.png'
 imgAlt: 'Taskly'
+visitorBadge: true
 ---
+
+![Taskly](/assets/images/taskly.png)
+
+Este é o conteúdo do seu post.
+
+{% if page.visitorBadge %}
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=davidtrovisco.taskly)
+{% endif %}
 
 <h3 style="color: rgb(34, 211, 238); text-align: center;">Hello guys! Say hello to my new app called: "Taskly"</h3>
 <img title="a title" alt="Alt text" src="/assets/images/taskly.png">
