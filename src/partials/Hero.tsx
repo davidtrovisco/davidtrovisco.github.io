@@ -59,11 +59,12 @@ const Hero = () => (
           </a>
           <a href="#">
             <img
-              src="https://img.shields.io/badge/Open_to_work-8A2BE2"
+              src="https://img.shields.io/badge/Open_to_work-6ab04c"
               alt="Static Badge"
             />
-            ![visitors](https://visitor-badge.laobi.icu/badge?page_id=davidtrovisco.davidtrovisco.github.io)
           </a>
+          [![My First
+          Counter](https://shields-io-visitor-counter.herokuapp.com/badge?page=davidtrovisco.github.io&label=My%20First%20Counter&labelColor=000000&logo=GitHub&logoColor=FFFFFF&color=1D70B8&style=for-the-badge)](https://davidtrovisco.github.io)
         </>
       }
     />
