@@ -6,9 +6,9 @@ pubDate: 2024-03-19T00:00:00Z
 imgSrc: '/assets/images/imc_appv.png'
 imgAlt: 'IMC_app'
 ---
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=davidtrovisco.imcapp)
 
 <h3 style="color: rgb(34, 211, 238); text-align: center;">Individual Mass Index (IMC) App - ReactNative</h3>
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=davidtrovisco.imcapp)
 
 <table>
   <tr>
