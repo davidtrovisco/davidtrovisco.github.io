@@ -61,6 +61,11 @@ const Hero = () => (
             <img
               src="https://visitor-badge.glitch.me/badge?page_id=davidtrovisco.davidtrovisco"
               alt="Profile views"
+              style={{ marginRight: '5px' }}
+            />
+            <img
+              src="https://img.shields.io/badge/Profile%20Views-000000?style=plastic&logo=eye&logoColor=white"
+              alt="Eye icon"
             />
           </a>
         </>
