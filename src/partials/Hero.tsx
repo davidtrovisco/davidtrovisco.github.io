@@ -57,6 +57,11 @@ const Hero = () => (
               alt="Google Play Apps"
             />
           </a>
+          <img
+            src="https://komarev.com/ghpvc/?username=davidtrovisco&abbreviated=true"
+            alt="Profile views"
+            style={{ marginLeft: '10px', verticalAlign: 'middle' }}
+          />
         </>
       }
     />
