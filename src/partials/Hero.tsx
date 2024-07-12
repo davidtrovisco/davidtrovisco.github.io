@@ -63,8 +63,11 @@ const Hero = () => (
               alt="Static Badge"
             />
           </a>
-          <a>
-            [![VisitorCount](https://visitor-badge.laobi.icu/badge?page_id=davidtrovisco.github.io)](https://visitor-badge.laobi.icu/badge?page_id=davidtrovisco.github.io)
+          <a href="https://visitor-badge.laobi.icu/badge?page_id=davidtrovisco.github.io">
+            <img
+              src="https://visitor-badge.laobi.icu/badge?page_id=davidtrovisco.github.io"
+              alt="Visitor Count"
+            />
           </a>
         </>
       }
