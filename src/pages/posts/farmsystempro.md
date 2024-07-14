@@ -3,13 +3,12 @@ layout: '@/templates/BasePost.astro'
 title: Farm System Pro
 description: Is a comprehensive farm management software designed to streamline agricultural operations and maximize productivity. 
 pubDate: 2020-02-05T00:00:00Z
-imgSrc: '/assets/images/desktop0.png'
+imgSrc: '/assets/images/FarmSystemPro1.png'
 imgAlt: 'Farm System Pro'
 ---
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=davidtrovisco.farmsystempro)
 
 <h3 style="color: rgb(34, 211, 238); text-align: center;">Farm System Pro</h3>
-<img title="a title" alt="Alt text" src="/assets/images/taskly.png">
 
 <body>
     <h3 style="color: rgb(34, 211, 238); text-align: center;">Features</h3>
@@ -42,9 +41,46 @@ imgAlt: 'Farm System Pro'
 <img title="a title" alt="Alt text" src="/assets/images/AddCrop.png">
 <h3 style="color: rgb(34, 211, 238); text-align: center;">Edit Crop</h3>
 <img title="a title" alt="Alt text" src="/assets/images/EditCrop.png">
-
-
-
+<h3 style="color: rgb(34, 211, 238); text-align: center;">Remove Crop</h3>
+<img title="a title" alt="Alt text" src="/assets/images/RemoveCrop.png">
+<h3 style="color: rgb(34, 211, 238); text-align: center;">Search Crop</h3>
+<img title="a title" alt="Alt text" src="/assets/images/SearchCrop.png">
+<h3 style="color: rgb(34, 211, 238); text-align: center;">Employee</h3>
+<img title="a title" alt="Alt text" src="/assets/images/Employee.png">
+<h3 style="color: rgb(34, 211, 238); text-align: center;">Equipment</h3>
+<img title="a title" alt="Alt text" src="/assets/images/Equipment.png">
+<h3 style="color: rgb(34, 211, 238); text-align: center;">Equipment Cost</h3>
+<img title="a title" alt="Alt text" src="/assets/images/EquipmentCost.png">
+<h3 style="color: rgb(34, 211, 238); text-align: center;">Farms</h3>
+<img title="a title" alt="Alt text" src="/assets/images/Farms.png">
+<h3 style="color: rgb(34, 211, 238); text-align: center;">Farms Details Mobile</h3>
+<img title="a title" alt="Alt text" src="/assets/images/FarmsDetailsmobile.png">
+<h3 style="color: rgb(34, 211, 238); text-align: center;">Field Activities</h3>
+<img title="a title" alt="Alt text" src="/assets/images/FieldActivities.png">
+<h3 style="color: rgb(34, 211, 238); text-align: center;">Field Activities Mobile</h3>
+<img title="a title" alt="Alt text" src="/assets/images/FieldActivitiesMobile.png">
+<h3 style="color: rgb(34, 211, 238); text-align: center;">Fields Details</h3>
+<img title="a title" alt="Alt text" src="/assets/images/FieldDetails.png">
+<h3 style="color: rgb(34, 211, 238); text-align: center;">Field Ativitis Details</h3>
+<img title="a title" alt="Alt text" src="/assets/images/FieldDetails.png">
+<h3 style="color: rgb(34, 211, 238); text-align: center;">Inventories Details</h3>
+<img title="a title" alt="Alt text" src="/assets/images/InventoriesDetails.png">
+<h3 style="color: rgb(34, 211, 238); text-align: center;">Security</h3>
+<img title="a title" alt="Alt text" src="/assets/images/Security.png">
+<h3 style="color: rgb(34, 211, 238); text-align: center;">Security Admin Dashboard</h3>
+<img title="a title" alt="Alt text" src="/assets/images/SecurityAdminDashboard.png">
+<h3 style="color: rgb(34, 211, 238); text-align: center;">Admin Roles Users</h3>
+<img title="a title" alt="Alt text" src="/assets/images/AdminRolesUserd.png">
+<h3 style="color: rgb(34, 211, 238); text-align: center;">Admin Users List</h3>
+<img title="a title" alt="Alt text" src="/assets/images/AdminUsers.png">
+<h3 style="color: rgb(34, 211, 238); text-align: center;">Admin Users Create</h3>
+<img title="a title" alt="Alt text" src="/assets/images/AdminUsersCreate.png">
+<h3 style="color: rgb(34, 211, 238); text-align: center;">Support Languages</h3>
+<img title="a title" alt="Alt text" src="/assets/images/SupportLanguages.png">
+<h3 style="color: rgb(34, 211, 238); text-align: center;">Mobile Version</h3>
+<img title="a title" alt="Alt text" src="/assets/images/mobile0.png">
+<h3 style="color: rgb(34, 211, 238); text-align: center;">Localizations Mobile</h3>
+<img title="a title" alt="Alt text" src="/assets/images/LocalizationsMobile.png">
 
 
 <h3 style="color: rgb(34, 211, 238); text-align: center;">Video Demo:</h3>
