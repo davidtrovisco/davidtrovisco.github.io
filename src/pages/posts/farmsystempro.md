@@ -32,7 +32,6 @@ imgAlt: 'Farm System Pro'
     <p>Farm System Pro helps you streamline farm operations, boost productivity, and make data-driven decisions, allowing you to focus on what matters most.</p>
 </body>
 <h3 style="color: rgb(34, 211, 238); text-align: center;">Some images from Farm System Pro</h3>
-<img title="a title" alt="Alt text" src="/assets/images/desktop0.png">
 <h3 style="color: rgb(34, 211, 238); text-align: center;">Admin Dashboard</h3>
 <img title="a title" alt="Alt text" src="/assets/images/desktop0.png">
 <h3 style="color: rgb(34, 211, 238); text-align: center;">Crop Management</h3>
@@ -58,11 +57,11 @@ imgAlt: 'Farm System Pro'
 <h3 style="color: rgb(34, 211, 238); text-align: center;">Field Activities</h3>
 <img title="a title" alt="Alt text" src="/assets/images/FieldActivities.png">
 <h3 style="color: rgb(34, 211, 238); text-align: center;">Field Activities Mobile</h3>
-<img title="a title" alt="Alt text" src="/assets/images/FieldActivitiesMobile.png">
+<img title="a title" alt="Alt text" src="/assets/images/FieldAtivitiesMobile.png">
 <h3 style="color: rgb(34, 211, 238); text-align: center;">Fields Details</h3>
-<img title="a title" alt="Alt text" src="/assets/images/FieldDetails.png">
+<img title="a title" alt="Alt text" src="/assets/images/FieldsDetails.png">
 <h3 style="color: rgb(34, 211, 238); text-align: center;">Field Ativitis Details</h3>
-<img title="a title" alt="Alt text" src="/assets/images/FieldDetails.png">
+<img title="a title" alt="Alt text" src="/assets/images/FieldAtivitisDetails.png">
 <h3 style="color: rgb(34, 211, 238); text-align: center;">Inventories Details</h3>
 <img title="a title" alt="Alt text" src="/assets/images/InventoriesDetails.png">
 <h3 style="color: rgb(34, 211, 238); text-align: center;">Security</h3>
