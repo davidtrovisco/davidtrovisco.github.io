@@ -35,6 +35,16 @@ imgAlt: 'Image post 6'
 
 <table>
   <tr>
+    <td><strong>Natixis in Portugal - Devoteam</strong><td style="text-align: right;"></td></td>
+    <td style="text-align: right;"><strong>Porto</strong></td>
+  </tr>
+   <tr>
+    <td colspan="2">
+      Developer
+    </td>
+    <td style="text-align: right;">2024</td>
+  </tr>
+  <tr>
     <td><strong>SOLUTIONS by Oryon, SA</strong><td style="text-align: right;"></td></td>
     <td style="text-align: right;"><strong>Porto</strong></td>
   </tr>
