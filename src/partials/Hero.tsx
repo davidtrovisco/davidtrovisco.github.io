@@ -57,15 +57,6 @@ const Hero = () => (
               alt="Google Play Apps"
             />
           </a>
-          <div style={{ marginBottom: '10px' }}>
-            <a href="#">
-              <img
-                src="https://img.shields.io/badge/Open_to_work!-686de0"
-                alt="Open to work"
-              />
-            </a>
-          </div>
-          <br></br>
           <div>
             <a href="https://visitor-badge.laobi.icu/badge?page_id=davidtrovisco.github.io">
               <img
