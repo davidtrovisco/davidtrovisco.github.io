@@ -103,6 +103,15 @@ imgAlt: 'Image post 6'
 <table>
 <tr>
     <td>
+      <a href="https://www.linkedin.com/in/davide-trovisco-440b5717a/overlay/1734474837263/single-media-viewer/?profileId=ACoAACqHarABGn5ng6AJw92TScq1hpgXNAiJB9U">
+        &#128279;
+        <strong>Total Agility 7.10 Professional Developer Certificate</strong>
+      </a>
+    </td>
+    <td style="text-align: right;"><strong>2024</strong></td>
+  </tr>
+<tr>
+    <td>
       <a href="https://www.linkedin.com/in/davide-trovisco-440b5717a/details/certifications/1723114702396/single-media-viewer/?type=DOCUMENT&profileId=ACoAACqHarABGn5ng6AJw92TScq1hpgXNAiJB9U">
         &#128279;
         <strong>Certificado de Formação Profissional</strong>
