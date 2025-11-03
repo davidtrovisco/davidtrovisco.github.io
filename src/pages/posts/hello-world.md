@@ -143,7 +143,7 @@ imgAlt: 'Image post 6'
         <strong>TotalAgility 7.10 Advanced Professional Developer Certificate</strong>
       </a>
     </td>
-    <td style="text-align: right;"><strong>2024</strong></td>
+    <td style="text-align: right;"><strong>2025</strong></td>
   </tr>
 <tr>
 <tr>
@@ -153,7 +153,7 @@ imgAlt: 'Image post 6'
         <strong>Insight 5.4 Essentials Certificate</strong>
       </a>
     </td>
-    <td style="text-align: right;"><strong>2024</strong></td>
+    <td style="text-align: right;"><strong>2025</strong></td>
   </tr>
 <tr>
 <tr>
@@ -163,7 +163,7 @@ imgAlt: 'Image post 6'
         <strong>RPA - Process Automation using UIPATH - Beginner to Expert</strong>
       </a>
     </td>
-    <td style="text-align: right;"><strong>2024</strong></td>
+    <td style="text-align: right;"><strong>2025</strong></td>
   </tr>
 <tr>
 <tr>
@@ -173,7 +173,7 @@ imgAlt: 'Image post 6'
         <strong>Total Agility 7.10 Professional Developer Certificate</strong>
       </a>
     </td>
-    <td style="text-align: right;"><strong>2024</strong></td>
+    <td style="text-align: right;"><strong>2025</strong></td>
   </tr>
 <tr>
     <td>
