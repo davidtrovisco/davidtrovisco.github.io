@@ -40,7 +40,21 @@ imgAlt: 'Image post 6'
   </tr>
    <tr>
     <td colspan="2">
-      Developer
+      -Proficiency in the design, development, and optimization of document processing solutions using Kofax TotalAgility 7.10 and .NET technologies.
+-Creation of automated workflows and customization of functionalities with C# scripts.
+-Knowledge of Visual Basic (VB.NET) for supporting routines and integrations with legacy systems.
+-Document classification and extraction with Kofax TotalAgility, applying improvements to OCR/ICR accuracy for efficient data extraction.
+-Data manipulation and analysis in MySQL for process automation and supporting decision-making.
+-Document extraction benchmarking and performance evaluation of implemented solutions.
+-Testing and validation of REST APIs using Postman.
+Integration of Kofax with corporate systems, ensuring data consistency.
+-System maintenance, identification, and correction of failures, with a focus on continuous improvement.
+-Direct collaboration with stakeholders for requirements gathering and delivery of solutions aligned with business needs.
+-Utilization of Jira for task management, sprint tracking, and delivery control.
+-Technical and functional documentation in Confluence, facilitating knowledge sharing among teams.
+-Logging and tracking of incidents and requests via ServiceNow, contributing to efficient call management and technical support.
+-Version control and code management/review using Bitbucket.
+-Use of XLRelease for managing and executing deploys in bench and production environments, ensuring controlled and secure delivery of developed solutions.
     </td>
     <td style="text-align: right;">2024</td>
   </tr>
