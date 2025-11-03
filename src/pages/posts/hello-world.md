@@ -39,7 +39,7 @@ imgAlt: 'Image post 6'
     <td style="text-align: right;"><strong>Porto</strong></td>
   </tr>
    <tr>
-    <td colspan="2">
+    <td style="text-align: justify" colspan="2">
       <li>Proficiency in the design, development, and optimization of document processing solutions using Kofax TotalAgility 7.10 and .NET technologies.</li>
       <li>Creation of automated workflows and customization of functionalities with C# scripts.</li>
       <li>Knowledge of Visual Basic (VB.NET) for supporting routines and integrations with legacy systems.</li>
