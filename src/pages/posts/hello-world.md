@@ -61,21 +61,21 @@ imgAlt: 'Image post 6'
     <br>
     <a href="https://www.linkedin.com/in/davide-trovisco-440b5717a/details/certifications/1734474837263/single-media-viewer?type=DOCUMENT&profileId=ACoAACqHarABGn5ng6AJw92TScq1hpgXNAiJB9U" target="_blank">
   <span class="bg-green-100 text-green-800 text-xs font-medium me-2 px-2.5 py-0.5 rounded border border-green-400">
-    TotalAgility 7.10 Professional Developer Certification
+    TotalAgility 7.10 Professional Developer Certificate
   </span>
 </a><a href="https://www.linkedin.com/in/davide-trovisco-440b5717a/details/certifications/1760705641854/single-media-viewer?type=DOCUMENT&profileId=ACoAACqHarABGn5ng6AJw92TScq1hpgXNAiJB9U" target="_blank">
   <span class="bg-green-100 text-green-800 text-xs font-medium me-2 px-2.5 py-0.5 rounded border border-green-400">
-    Insight 5.4 Certification
+    Insight 5.4 Certificate
   </span>
 </a><a href="https://www.linkedin.com/in/davide-trovisco-440b5717a/details/certifications/1761576770186/single-media-viewer?type=DOCUMENT&profileId=ACoAACqHarABGn5ng6AJw92TScq1hpgXNAiJB9U" target="_blank">
   <span class="bg-green-100 text-green-800 text-xs font-medium me-2 px-2.5 py-0.5 rounded border border-green-400">
-    TotalAgility 7.10 Advanced Professional Developer Certification
+    TotalAgility 7.10 Advanced Professional Developer Certificate
   </span>
 </a>
 
 
   </td>
-<td style="text-align: right; white-space: nowrap;">2024-2025</td>
+<td style="text-align: right; white-space: nowrap;">2024 - 2025</td>
 </tr>
 
 
@@ -136,6 +136,26 @@ imgAlt: 'Image post 6'
 ##
 <h3 style="color: rgb(34, 211, 238); text-align: center;">Certifications and Courses</h3>
 <table>
+<tr>
+    <td>
+      <a href="https://www.linkedin.com/in/davide-trovisco-440b5717a/details/certifications/1761576770186/single-media-viewer/?profileId=ACoAACqHarABGn5ng6AJw92TScq1hpgXNAiJB9U">
+        &#128279;
+        <strong>TotalAgility 7.10 Advanced Professional Developer Certificate</strong>
+      </a>
+    </td>
+    <td style="text-align: right;"><strong>2024</strong></td>
+  </tr>
+<tr>
+<tr>
+    <td>
+      <a href="https://www.linkedin.com/in/davide-trovisco-440b5717a/details/certifications/1760705641854/single-media-viewer/?type=DOCUMENT&profileId=ACoAACqHarABGn5ng6AJw92TScq1hpgXNAiJB9U">
+        &#128279;
+        <strong>Insight 5.4 Essentials Certificate</strong>
+      </a>
+    </td>
+    <td style="text-align: right;"><strong>2024</strong></td>
+  </tr>
+<tr>
 <tr>
     <td>
       <a href="https://www.linkedin.com/in/davide-trovisco-440b5717a/overlay/1734474837263/single-media-viewer/?profileId=ACoAACqHarABGn5ng6AJw92TScq1hpgXNAiJB9U">
