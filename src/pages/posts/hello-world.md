@@ -75,7 +75,7 @@ imgAlt: 'Image post 6'
 
 
   </td>
-  <td style="text-align: right;">2024-2025</td>
+<td style="text-align: right; white-space: nowrap;">2024-2025</td>
 </tr>
 
 
