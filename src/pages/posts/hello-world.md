@@ -39,23 +39,88 @@ imgAlt: 'Image post 6'
     <td style="text-align: right;"><strong>Porto</strong></td>
   </tr>
    <tr>
-    <td style="text-align: justify" colspan="2">
-      <li>Proficiency in the design, development, and optimization of document processing solutions using Kofax TotalAgility 7.10 and .NET technologies.</li>
-      <li>Creation of automated workflows and customization of functionalities with C# scripts.</li>
-      <li>Knowledge of Visual Basic (VB.NET) for supporting routines and integrations with legacy systems.</li>
-      <li>Document classification and extraction with Kofax TotalAgility, applying improvements to OCR/ICR accuracy for efficient data extraction.</li>
-      <li>Data manipulation and analysis in MySQL for process automation and supporting decision-making.</li>
-      <li>Document extraction benchmarking and performance evaluation of implemented solutions.</li>
-      <li>Testing and validation of REST APIs using Postman. Integration of Kofax with corporate systems, ensuring data consistency.</li>
-      <li>System maintenance, identification, and correction of failures, with a focus on continuous improvement.</li>
-      <li>Direct collaboration with stakeholders for requirements gathering and delivery of solutions aligned with business needs.</li>
-      <li>Utilization of Jira for task management, sprint tracking, and delivery control.</li>
-      <li>Technical and functional documentation in Confluence, facilitating knowledge sharing among teams.</li>
-      <li>Logging and tracking of incidents and requests via ServiceNow, contributing to efficient call management and technical support.</li>
-      <li>Version control and code management/review using Bitbucket.</li>
-      <li>Use of XLRelease for managing and executing deploys in bench and production environments, ensuring controlled and secure delivery of developed solutions.</li>
-    </td>
-    <td style="text-align: right;">2024</td>
+    <td>
+    <strong>Proficiency in the design, development, and optimization of document processing solutions using Kofax TotalAgility 7.10 and .NET technologies</strong>
+  </td>
+  <td style="text-align: right;"><strong>2025</strong></td>
+</tr>
+<tr>
+  <td>
+    <strong>Creation of automated workflows and customization of functionalities with C# scripts</strong>
+  </td>
+  <td style="text-align: right;"><strong>2025</strong></td>
+</tr>
+<tr>
+  <td>
+    <strong>Knowledge of Visual Basic (VB.NET) for supporting routines and integrations with legacy systems</strong>
+  </td>
+  <td style="text-align: right;"><strong>2025</strong></td>
+</tr>
+<tr>
+  <td>
+    <strong>Document classification and extraction with Kofax TotalAgility, applying improvements to OCR/ICR accuracy for efficient data extraction</strong>
+  </td>
+  <td style="text-align: right;"><strong>2025</strong></td>
+</tr>
+<tr>
+  <td>
+    <strong>Data manipulation and analysis in MySQL for process automation and supporting decision-making</strong>
+  </td>
+  <td style="text-align: right;"><strong>2025</strong></td>
+</tr>
+<tr>
+  <td>
+    <strong>Document extraction benchmarking and performance evaluation of implemented solutions</strong>
+  </td>
+  <td style="text-align: right;"><strong>2025</strong></td>
+</tr>
+<tr>
+  <td>
+    <strong>Testing and validation of REST APIs using Postman; Integration of Kofax with corporate systems, ensuring data consistency</strong>
+  </td>
+  <td style="text-align: right;"><strong>2025</strong></td>
+</tr>
+<tr>
+  <td>
+    <strong>System maintenance, identification, and correction of failures, with a focus on continuous improvement</strong>
+  </td>
+  <td style="text-align: right;"><strong>2025</strong></td>
+</tr>
+<tr>
+  <td>
+    <strong>Direct collaboration with stakeholders for requirements gathering and delivery of solutions aligned with business needs</strong>
+  </td>
+  <td style="text-align: right;"><strong>2025</strong></td>
+</tr>
+<tr>
+  <td>
+    <strong>Utilization of Jira for task management, sprint tracking, and delivery control</strong>
+  </td>
+  <td style="text-align: right;"><strong>2025</strong></td>
+</tr>
+<tr>
+  <td>
+    <strong>Technical and functional documentation in Confluence, facilitating knowledge sharing among teams</strong>
+  </td>
+  <td style="text-align: right;"><strong>2025</strong></td>
+</tr>
+<tr>
+  <td>
+    <strong>Logging and tracking of incidents and requests via ServiceNow, contributing to efficient call management and technical support</strong>
+  </td>
+  <td style="text-align: right;"><strong>2025</strong></td>
+</tr>
+<tr>
+  <td>
+    <strong>Version control and code management/review using Bitbucket</strong>
+  </td>
+  <td style="text-align: right;"><strong>2025</strong></td>
+</tr>
+<tr>
+  <td>
+    <strong>Use of XLRelease for managing and executing deploys in bench and production environments, ensuring controlled and secure delivery of developed solutions</strong>
+  </td>
+  <td style="text-align: right;"><strong>2025</strong></td>
   </tr>
   <tr>
     <td><strong>SOLUTIONS by Oryon, SA</strong><td style="text-align: right;"></td></td>
