@@ -41,7 +41,7 @@ imgAlt: 'Image post 6'
    <tr>
   <tr>
   <td colspan="2">
-    Intelligent Document Processing (IDP) Specialist
+    Intelligent Document Processing (IDP) Specialist - Developer
     <br>
     <!-- Skills Azuis -->
     <span class="bg-blue-100 text-blue-800 text-xs font-medium me-2 px-2.5 py-0.5 rounded border border-blue-400">.Net</span>
@@ -60,14 +60,20 @@ imgAlt: 'Image post 6'
     <span class="bg-blue-100 text-blue-800 text-xs font-medium me-2 px-2.5 py-0.5 rounded border border-blue-400">XLRelease</span>
     <br>
     <a href="https://www.linkedin.com/in/davide-trovisco-440b5717a/details/certifications/1734474837263/single-media-viewer?type=DOCUMENT&profileId=ACoAACqHarABGn5ng6AJw92TScq1hpgXNAiJB9U" target="_blank">
-      <span class="bg-green-100 text-green-800 text-xs font-medium me-2 px-2.5 py-0.5 rounded border border-green-400">TotalAgility 7.10 Professional Developer Certification</span>
-    </a>
-    <a href="https://www.linkedin.com/in/davide-trovisco-440b5717a/details/certifications/1760705641854/single-media-viewer?type=DOCUMENT&profileId=ACoAACqHarABGn5ng6AJw92TScq1hpgXNAiJB9U" target="_blank">
-      <span class="bg-green-100 text-green-800 text-xs font-medium me-2 px-2.5 py-0.5 rounded border border-green-400">Insight 5.4 Certification</span>
-    </a>
-    <a href="https://www.linkedin.com/in/davide-trovisco-440b5717a/details/certifications/1761576770186/single-media-viewer?type=DOCUMENT&profileId=ACoAACqHarABGn5ng6AJw92TScq1hpgXNAiJB9U" target="_blank">
-      <span class="bg-green-100 text-green-800 text-xs font-medium me-2 px-2.5 py-0.5 rounded border border-green-400">TotalAgility 7.10 Advanced Professional Developer Certification</span>
-    </a>
+  <span class="bg-green-100 text-green-800 text-xs font-medium me-2 px-2.5 py-0.5 rounded border border-green-400">
+    TotalAgility 7.10 Professional Developer Certification
+  </span>
+</a><a href="https://www.linkedin.com/in/davide-trovisco-440b5717a/details/certifications/1760705641854/single-media-viewer?type=DOCUMENT&profileId=ACoAACqHarABGn5ng6AJw92TScq1hpgXNAiJB9U" target="_blank">
+  <span class="bg-green-100 text-green-800 text-xs font-medium me-2 px-2.5 py-0.5 rounded border border-green-400">
+    Insight 5.4 Essentials Certification
+  </span>
+</a><a href="https://www.linkedin.com/in/davide-trovisco-440b5717a/details/certifications/1761576770186/single-media-viewer?type=DOCUMENT&profileId=ACoAACqHarABGn5ng6AJw92TScq1hpgXNAiJB9U" target="_blank">
+  <span class="bg-green-100 text-green-800 text-xs font-medium me-2 px-2.5 py-0.5 rounded border border-green-400">
+    TotalAgility 7.10 Advanced Professional Developer Certification
+  </span>
+</a>
+
+
   </td>
   <td style="text-align: right;">2024-2025</td>
 </tr>
