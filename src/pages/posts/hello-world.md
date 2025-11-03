@@ -39,43 +39,38 @@ imgAlt: 'Image post 6'
     <td style="text-align: right;"><strong>Porto</strong></td>
   </tr>
    <tr>
-    <td colspan="2">
-      Intelligent Document Processing (IDP) Specialist
-      <br>
-      <span class="bg-blue-100 text-blue-800 text-xs font-medium me-2 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-blue-400 border border-blue-400">.Net</span>
-      <span class="bg-blue-100 text-blue-800 text-xs font-medium me-2 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-blue-400 border border-blue-400">Kofax TotalAgility 7.10 (KTA)</span>
-      <span class="bg-blue-100 text-blue-800 text-xs font-medium me-2 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-blue-400 border border-blue-400">SCRUM</span>
-      <span class="bg-blue-100 text-blue-800 text-xs font-medium me-2 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-blue-400 border border-blue-400">VB.Net</span>
-      <span class="bg-blue-100 text-blue-800 text-xs font-medium me-2 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-blue-400 border border-blue-400">Jira</span>
-      <span class="bg-blue-100 text-blue-800 text-xs font-medium me-2 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-blue-400 border border-blue-400">C#</span>
-      <span class="bg-blue-100 text-blue-800 text-xs font-medium me-2 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-blue-400 border border-blue-400">MySQL</span>
-      <span class="bg-blue-100 text-blue-800 text-xs font-medium me-2 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-blue-400 border border-blue-400">APIs Rest</span>
-      <span class="bg-blue-100 text-blue-800 text-xs font-medium me-2 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-blue-400 border border-blue-400">Postman</span>
-      <span class="bg-blue-100 text-blue-800 text-xs font-medium me-2 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-blue-400 border border-blue-400">Confluence</span>
-      <span class="bg-blue-100 text-blue-800 text-xs font-medium me-2 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-blue-400 border border-blue-400">ServiceNow</span>
-      <span class="bg-blue-100 text-blue-800 text-xs font-medium me-2 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-blue-400 border border-blue-400">Bitbucket</span>
-      <span class="bg-blue-100 text-blue-800 text-xs font-medium me-2 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-blue-400 border border-blue-400">XLRelease</span>
-      <a href="https://www.linkedin.com/in/davide-trovisco-440b5717a/details/certifications/1734474837263/single-media-viewer?type=DOCUMENT&profileId=ACoAACqHarABGn5ng6AJw92TScq1hpgXNAiJB9U&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3Bjy0o%2F9PXQxyrYdookzWJRQ%3D%3D" target="_blank">
-  <a href="https://www.linkedin.com/in/davide-trovisco-440b5717a/details/certifications/1734474837263/single-media-viewer?type=DOCUMENT&profileId=ACoAACqHarABGn5ng6AJw92TScq1hpgXNAiJB9U&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3Bjy0o%2F9PXQxyrYdookzWJRQ%3D%3D" target="_blank">
-  <span class="bg-green-100 text-green-800 text-xs font-medium me-2 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-green-400 border border-green-400">
-    TotalAgility 7.10 Professional Developer Certification
-  </span>
-</a>
-<a href="https://www.linkedin.com/in/davide-trovisco-440b5717a/details/certifications/1760705641854/single-media-viewer?type=DOCUMENT&profileId=ACoAACqHarABGn5ng6AJw92TScq1hpgXNAiJB9U&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3Bjy0o%2F9PXQxyrYdookzWJRQ%3D%3D" target="_blank">
-  <span class="bg-green-100 text-green-800 text-xs font-medium me-2 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-green-400 border border-green-400">
-    Insight 5.4 Essentials Certification
-  </span>
-</a>
-<a href="https://www.linkedin.com/in/davide-trovisco-440b5717a/details/certifications/1761576770186/single-media-viewer?type=DOCUMENT&profileId=ACoAACqHarABGn5ng6AJw92TScq1hpgXNAiJB9U&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3Bjy0o%2F9PXQxyrYdookzWJRQ%3D%3D" target="_blank">
-  <span class="bg-green-100 text-green-800 text-xs font-medium me-2 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-green-400 border border-green-400">
-    TotalAgility 7.10 Advanced Professional Developer Certification
-  </span>
-</a>
-</a>
-      </br>
-    </td>
-<td style="text-align: right;">2024 - 2025</td>
-  </tr>
+  <td colspan="2">
+    Intelligent Document Processing (IDP) Specialist
+    <br>
+    <!-- Skills Azuis -->
+    <span class="bg-blue-100 text-blue-800 text-xs font-medium me-2 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-blue-400 border border-blue-400">.Net</span>
+    <span class="bg-blue-100 text-blue-800 text-xs font-medium me-2 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-blue-400 border border-blue-400">Kofax TotalAgility 7.10 (KTA)</span>
+    <span class="bg-blue-100 text-blue-800 text-xs font-medium me-2 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-blue-400 border border-blue-400">OCR</span>
+    <span class="bg-blue-100 text-blue-800 text-xs font-medium me-2 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-blue-400 border border-blue-400">Agile / SCRUM</span>
+    <span class="bg-blue-100 text-blue-800 text-xs font-medium me-2 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-blue-400 border border-blue-400">VB.Net</span>
+    <span class="bg-blue-100 text-blue-800 text-xs font-medium me-2 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-blue-400 border border-blue-400">Jira</span>
+    <span class="bg-blue-100 text-blue-800 text-xs font-medium me-2 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-blue-400 border border-blue-400">C#</span>
+    <span class="bg-blue-100 text-blue-800 text-xs font-medium me-2 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-blue-400 border border-blue-400">MySQL</span>
+    <span class="bg-blue-100 text-blue-800 text-xs font-medium me-2 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-blue-400 border border-blue-400">APIs Rest</span>
+    <span class="bg-blue-100 text-blue-800 text-xs font-medium me-2 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-blue-400 border border-blue-400">Postman</span>
+    <span class="bg-blue-100 text-blue-800 text-xs font-medium me-2 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-blue-400 border border-blue-400">Confluence</span>
+    <span class="bg-blue-100 text-blue-800 text-xs font-medium me-2 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-blue-400 border border-blue-400">ServiceNow</span>
+    <span class="bg-blue-100 text-blue-800 text-xs font-medium me-2 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-blue-400 border border-blue-400">Bitbucket</span>
+    <span class="bg-blue-100 text-blue-800 text-xs font-medium me-2 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-blue-400 border border-blue-400">XLRelease</span>
+    <!-- Certificados Verdes -->
+    <a href="https://www.linkedin.com/in/davide-trovisco-440b5717a/details/certifications/1734474837263/single-media-viewer?type=DOCUMENT&profileId=ACoAACqHarABGn5ng6AJw92TScq1hpgXNAiJB9U" target="_blank">
+      <span class="bg-green-100 text-green-800 text-xs font-medium me-2 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-green-400 border border-green-400">TotalAgility 7.10 Professional Developer Certification</span>
+    </a>
+    <a href="https://www.linkedin.com/in/davide-trovisco-440b5717a/details/certifications/1760705641854/single-media-viewer?type=DOCUMENT&profileId=ACoAACqHarABGn5ng6AJw92TScq1hpgXNAiJB9U" target="_blank">
+      <span class="bg-green-100 text-green-800 text-xs font-medium me-2 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-green-400 border border-green-400">Insight 5.4 Essentials Certification</span>
+    </a>
+    <a href="https://www.linkedin.com/in/davide-trovisco-440b5717a/details/certifications/1761576770186/single-media-viewer?type=DOCUMENT&profileId=ACoAACqHarABGn5ng6AJw92TScq1hpgXNAiJB9U" target="_blank">
+      <span class="bg-green-100 text-green-800 text-xs font-medium me-2 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-green-400 border border-green-400">TotalAgility 7.10 Advanced Professional Developer Certification</span>
+    </a>
+  </td>
+  <td style="text-align: right;">2024 - 2025</td>
+</tr>
+
   <tr>
     <td><strong>SOLUTIONS by Oryon, SA</strong><td style="text-align: right;"></td></td>
     <td style="text-align: right;"><strong>Porto</strong></td>
